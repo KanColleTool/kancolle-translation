@@ -66,6 +66,16 @@
     },
     {
         "ctx": "api_name",
+        "orig": "加賀岬改(母港ver)",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_name",
+        "orig": "鎮守府の秋祭り",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_name",
         "orig": "秋月の空",
         "src": "/kcsapi/api_start2"
     },
@@ -1723,12 +1733,12 @@
     },
     {
         "ctx": "api_description",
-        "orig": "ちょっと臆病なだるまくん。<br>でも負けない！くじけない！七転八起！",
+        "orig": "超弩級の家具コイン長者に<br>贈る最高級桐箪笥。上部に<br>は加賀型航空母艦「加賀」<br>の精密模型が鎮座する流石<br>に気分が高揚する桐箪笥。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_title",
-        "orig": "泣き虫だるま",
+        "orig": "「加賀」模型と桐箪笥",
         "src": "/kcsapi/api_start2"
     },
     {
@@ -2677,6 +2687,46 @@
         "src": "/kcsapi/api_start2"
     },
     {
+        "ctx": "api_description",
+        "orig": "艦娘総出で準備する鎮守府<br>秋祭り。焼きそばソースの<br>香ばしい匂いも嬉しい縁日<br>屋台です。りんご飴や焼き<br>とうもろこしも外せない！",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_title",
+        "orig": "鎮守府秋祭りの屋台",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_description",
+        "orig": "鎮守府秋祭りの重要コンテ<br>ンツ、それがこの縁日射的<br>です。練度の高い艦娘がど<br>んどん景品を落としてしま<br>うので運営コストが大変！",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_title",
+        "orig": "鎮守府秋祭りの射的",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_description",
+        "orig": "最前線に臨む要衝、ラバウ<br>ル基地。海の翼の集う重要<br>基地と同泊地で苦闘の日々<br>を戦い抜いた提督達に贈る<br>掛け軸！ラバウルで朝食を",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_title",
+        "orig": "「ラバウル基地」掛け軸",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_description",
+        "orig": "文字通りの最前線で戦って<br>いるブイン基地所属の提督<br>達のための逸品。艦載機を<br>モチーフに搭乗員妖精一同<br>による力強い文字が躍る！",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_title",
+        "orig": "「ブイン基地」掛け軸",
+        "src": "/kcsapi/api_start2"
+    },
+    {
         "ctx": "api_name",
         "orig": "鎮守府海域",
         "src": "/kcsapi/api_start2"
@@ -2707,11 +2757,6 @@
     {
         "ctx": "api_name",
         "orig": "中部海域",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "反撃！第二次SN作戦",
         "src": "/kcsapi/api_start2"
     },
     {
@@ -3212,111 +3257,6 @@
         "src": "/kcsapi/api_start2"
     },
     {
-        "ctx": "api_infotext",
-        "orig": "第二次SN作戦が発動された！<br>水雷戦隊を含む艦隊を編成し、<br>作戦海域となるソロモン海域の<br>威力偵察と前路哨戒を実施せよ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "ショートランド沖",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "発動準備、第二次SN作戦！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_infotext",
-        "orig": "いよいよ我が連合艦隊が抜錨、<br>作戦海域であるソロモン海域へ<br>進撃を開始する。連合艦隊主力<br>をもって同海域制海権を握れ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "ソロモン海",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "連合艦隊、ソロモン海へ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_infotext",
-        "orig": "戦いの激化するソロモン海域に<br>有力な敵機動部隊の接近中だ。<br>我が機動部隊はこれを迎撃、南<br>太平洋上で敵を捕捉撃滅せよ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "南太平洋海域",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "激突！第二次南太平洋海戦",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_infotext",
-        "orig": "来援した敵機動部隊主力は戦力<br>を喪失して後退した。いまこそ<br>ソロモン海域の要衝、敵飛行場<br>を撃滅する時！挺身部隊出撃！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "アイアンボトムサウンド",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "海峡突入！敵飛行場を撃滅せよ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_infotext",
-        "orig": "第二次SN作戦の間隙を塗って<br>西方海域に再集結中の敵増援<br>が確認された。西部方面派遣<br>艦隊で、同方面を防衛せよ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "西方海域戦線 カレー洋",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "奮戦！西部方面派遣艦隊",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_infotext",
-        "orig": "第二次SN作戦の成功により、<br>ソロモン海域方面に作戦橋頭堡<br>が確立された。連合艦隊機動部<br>隊主力をFS方面へ進出させよ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "ソロモン海東部海域",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "反攻作戦！FS方面進出",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_infotext",
-        "orig": "いよいよ拡張作戦、FS作戦を<br>実施する環境が整った。ソロモ<br>ン海域方面の全戦力を結集し、<br>拡張作戦FS作戦を実施せよ！",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "FS方面海域",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_opetext",
-        "orig": "FS作戦",
-        "src": "/kcsapi/api_start2"
-    },
-    {
         "ctx": "api_details",
         "orig": "鎮守府近海を航海し、艦隊の練度を高めよう！",
         "src": "/kcsapi/api_start2"
@@ -3711,16 +3651,6 @@
     {
         "ctx": "api_name",
         "orig": "水上機前線輸送",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_details",
-        "orig": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_details",
-        "orig": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
         "src": "/kcsapi/api_start2"
     },
     {
@@ -11375,6 +11305,76 @@
         "src": "/kcsapi/api_start2"
     },
     {
+        "ctx": "api_filename",
+        "orig": "cdsgfutghqlr",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "rqxbjmdizgzp",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "yfrcebhkfeme",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "wlvqxbzvynds",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "ojdsvkgrgyun",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "ftowpnpiekhh",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "ecwcfrvdtktj",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "iakggseprkmv",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "syrrbygrimvl",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "kjftklsgiiqw",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "khkhnfcvzhlh",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "jkvjvdnyjvkg",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "xgsjrrdbdkep",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_filename",
+        "orig": "pmqlugofbygx",
+        "src": "/kcsapi/api_start2"
+    },
+    {
         "ctx": "api_info",
         "orig": "旧型の小型砲です。<br>旧型駆逐艦に標準的主砲として搭載されました。<br>装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました。<br>対空射撃には不向きです。",
         "src": "/kcsapi/api_start2"
@@ -12963,6 +12963,16 @@
         "ctx": "api_name",
         "en": "120mm Twin Gun Mount",
         "orig": "120mm連装砲",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_info",
+        "orig": "水上機搭載可能な潜水艦による戦略的な運用を目指して開発された、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。その陸上運用機バージョン「南山」に着艦フックを付与した試作航空母艦運用型(爆装)です。テスト機なので、派手なカラーリングとなっています。",
+        "src": "/kcsapi/api_start2"
+    },
+    {
+        "ctx": "api_name",
+        "orig": "試製南山",
         "src": "/kcsapi/api_start2"
     },
     {
