@@ -20,7 +20,7 @@ The translation database is a JSON array of objects in the following format:
         "orig": "母港",
         "src": "/kcsapi/api_start2"
     }
-}
+]
 ```
 
 The keys are as follows:
