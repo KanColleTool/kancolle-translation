@@ -1,5 +1,6 @@
 import sys
 import json
+from util import dump
 
 desc = u"Dumps missing lines"
 
@@ -13,9 +14,4 @@ def run(data, args):
 		if not args.lang in d:
 			untld.append(d)
 	
-	s = json.dumps(untld, indent=4, separators=(',', ': '), ensure_ascii=False, sort_keys=True)
-	if args.outfile == '-':
-		print(s)
-	else:
-		with open(args.outfile if args.outfile != '-' else sys.stdout, 'w') as f:
-			f.write(s.encode('utf-8'))
+	dump(untld, args.outfile)

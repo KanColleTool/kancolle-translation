@@ -1,5 +1,6 @@
 import json
 from binascii import crc32
+from util import dump
 
 desc = u"Compiles a TL database"
 
@@ -15,7 +16,4 @@ def run(data, args):
 		crc = str(crc32(item['orig'].encode('utf-8')) & 0xffffffff)
 		compiled[crc] = item[args.lang]
 	
-	encoded = json.dumps(compiled, separators=(',', ':'), ensure_ascii=False, sort_keys=True)
-	
-	with open(args.patchfile, 'w') as f:
-		f.write(encoded.encode('utf-8'))
+	dump(compiled, args.patchfile, pretty=False)
