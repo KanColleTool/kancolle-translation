@@ -31,7 +31,7 @@ The keys are as follows:
 
 Ensure that there is an entry for the line you found, go to this repo's [Issues page](https://github.com/KanColleTool/kancolle-translation/issues), and open a new issue.
 
-The body __must include the contents of this file__, not just the untranslated line - we need the `ctx` and `src` keys as well. For readability, we ask that you add the data in a fenced code block, like this:
+The body __must include all this information__, not just the untranslated line - we need the `ctx` and `src` keys as well. For readability, we ask that you add the data in a fenced code block, like this:
 
     ```json
     [
