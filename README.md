@@ -72,7 +72,7 @@ The basic workflow for using tltool is as follows:
 
 * `./tltool missing en patch.json`  
   Exports all lines missing an `en` (English) translation to the file `patch.json`.
-* __Edit untranslated lines__
+* __Edit untranslated lines__  
   Simply open up `patch.json` (or whatever you called it), and fill in the `en` key for the lines you'd like to contribute. If you don't know a good translation, leave it blank.
 * `./tltool merge en patch.json`
   Merges your changes back into the main database.
@@ -89,7 +89,7 @@ Submitting a patch
 To submit your finished patch, you have two choices.
 
 ### Send a pull request
-If you're comfortable working with Git**, you may [fork the repository](https://help.github.com/articles/fork-a-repo/) and send a pull request with your changes.
+If you're comfortable working with Git, you may [fork the repository](https://help.github.com/articles/fork-a-repo/) and send a pull request with your changes.
 
 Your pull request will be validated by Travis-CI, so you will get an error if you try to submit a broken database.
 
