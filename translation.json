@@ -13852,20 +13852,5 @@
         "ctx": "api_description",
         "orig": "戦闘航海中の洋上で燃料弾薬を艦隊補給することが可能です。艦隊決戦のサポートにどうぞ！（発動すると消滅します）",
         "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "第1艦隊",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "第2艦隊",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_name",
-        "orig": "第3艦隊",
-        "src": "/kcsapi/api_port/port"
     }
 ]

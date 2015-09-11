@@ -10,5 +10,9 @@
 	{
     	"ctx": "api_message",
     	"src": "/kcsapi/api_port/port"
+	},
+	{
+		"ctx": "api_name",
+		"src": "/kcsapi/api_port/port"
 	}
 ]
