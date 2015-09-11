@@ -33,17 +33,15 @@ Ensure that there is an entry for the line you found, go to this repo's [Issues 
 
 The body __must include the contents of this file__, not just the untranslated line - we need the `ctx` and `src` keys as well. For readability, we ask that you add the data in a fenced code block, like this:
 
-```
-\`\`\`json
-[
-    {
-        "ctx": "api_name",
-        "orig": "母港",
-        "src": "/kcsapi/api_start2"
-    }
-}
-\`\`\`
-```
+    ```json
+    [
+        {
+            "ctx": "api_name",
+            "orig": "母港",
+            "src": "/kcsapi/api_start2"
+        }
+    ]
+    ```
 
 Issues missing ctx and src information __will be closed immediately__. We need this information!
 
@@ -102,15 +100,13 @@ Please use fenced code blocks (see "Reporting untranslated lines" -> "Manual" fo
 
 An example:
 
-```
-\`\`\`json
-[
-    {
-        "ctx": "api_name",
-        "en": "Submarine Warfare",
-        "orig": "海上護衛戦",
-        "src": "/kcsapi/api_start2"
-    }
-]
-\`\`\`
-```
+    ```json
+    [
+        {
+            "ctx": "api_name",
+            "en": "Submarine Warfare",
+            "orig": "海上護衛戦",
+            "src": "/kcsapi/api_start2"
+        }
+    ]
+    ```
