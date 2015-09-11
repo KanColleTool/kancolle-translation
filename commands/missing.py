@@ -12,6 +12,7 @@ def run(data, args):
 	untld = []
 	for d in data:
 		if not args.lang in d:
+			d[args.lang] = ""
 			untld.append(d)
 	
 	dump(untld, args.outfile)
