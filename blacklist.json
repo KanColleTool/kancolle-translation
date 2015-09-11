@@ -1,0 +1,14 @@
+[
+	{
+		"ctx": "api_result_msg",
+		"src": "*"
+	},
+    {
+        "ctx": "api_nickname",
+        "src": "/kcsapi/api_get_member/basic"
+    },
+	{
+    	"ctx": "api_message",
+    	"src": "/kcsapi/api_port/port"
+	}
+]
