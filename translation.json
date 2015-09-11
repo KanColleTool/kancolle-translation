@@ -1,10 +1,5 @@
 [
     {
-        "ctx": "api_result_msg",
-        "orig": "申し訳ありませんがブラウザを再起動し再ログインしてください。",
-        "src": "/kcsapi/api_start2"
-    },
-    {
         "ctx": "api_name",
         "orig": "母港",
         "src": "/kcsapi/api_start2"
@@ -81,6 +76,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Submarine Warfare",
         "orig": "海上護衛戦",
         "src": "/kcsapi/api_start2"
     },
@@ -1151,6 +1147,7 @@
     },
     {
         "ctx": "api_title",
+        "en": "None",
         "orig": "なし",
         "src": "/kcsapi/api_start2"
     },
@@ -2686,6 +2683,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Southwestern Archipelago",
         "orig": "南西諸島海域",
         "src": "/kcsapi/api_start2"
     },
@@ -2696,11 +2694,13 @@
     },
     {
         "ctx": "api_name",
+        "en": "Western Waters",
         "orig": "西方海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Southern Sea",
         "orig": "南方海域",
         "src": "/kcsapi/api_start2"
     },
@@ -2716,181 +2716,217 @@
     },
     {
         "ctx": "api_infotext",
+        "en": "Mobilize for a patrol of the waters outside the naval base!",
         "orig": "鎮守府正面近海の<br>警備に出動せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sea in Front of the Naval Base",
         "orig": "鎮守府正面海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Coastal Waters Defense",
         "orig": "近海警備",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Intercept the enemy's vanguard fleet in the seas off the Nansei Islands!",
         "orig": "南西諸島沖に接近する<br>敵前衛艦隊を捕捉、迎撃せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sea around the Nansei Islands",
         "orig": "南西諸島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Nansei Islands Sea Defense",
         "orig": "南西諸島沖警備",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Protect the supply lines from our coastal refineries!",
         "orig": "製油所地帯沿岸部の<br>海上輸送ラインを防衛せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Coastal Refinery Zone",
         "orig": "製油所地帯沿岸",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Maritime Convoy Tactics",
         "orig": "海上護衛作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "An enemy invasion fleet is pressing on the defensive line in the Nansei Islands. Sail out in full force and destroy them!",
         "orig": "南西諸島の防衛ライン上の<br>敵侵攻艦隊を捕捉、<br>全力出撃でこれを撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hold the Line at the Nansei Islands",
         "orig": "南西諸島防衛線",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "First Southern Operation Tactics",
         "orig": "南1号作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Organize a small seek-and-destroy ASW fleet to clean up the submarine-infested waters near the naval base!",
         "orig": "なるべく小編成の対潜哨戒部隊<br>を編成し、鎮守府近海に出没す<br>る敵潜水艦を発見・制圧せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Adjacent Seas of the Naval Base",
         "orig": "鎮守府近海",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Naval Base adjacent waters anti-submarine patrol",
         "orig": "鎮守府近海対潜哨戒",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Form a fleet consisting of ships that excel at anti-submarine warfare and in anti-aircraft capabilities, and protect the transport ship routes!",
         "orig": "対潜及び防空能力に優れた艦艇<br>を基幹戦力とした艦隊を編成、<br>輸送船団航路の護衛にあたれ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Naval Base Adjacent Sea Route",
         "orig": "鎮守府近海航路",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Convoy Escort Operation",
         "orig": "輸送船団護衛作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "There is an enemy fleet patrolling off the Cam Ranh Peninsula. <br>Intercept them!",
         "orig": "カムラン半島付近に<br>遊弋する敵艦隊を捕捉、<br>これを迎撃せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Cam Ranh Peninsula",
         "orig": "カムラン半島",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Operation Ka - Interception",
         "orig": "カ号迎撃戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Eliminate the enemy fleet and transport bauxite from Bashi Island!",
         "orig": "敵艦隊を排除し、<br>バシー島に集積された<br>ボーキサイト資材を輸送せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Bashi Island",
         "orig": "バシー島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Weeping Willow Transport Tactics",
         "orig": "柳輸送作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Enter Orel Bay and destroy the enemy transport fleet while protecting our own supply lines!",
         "orig": "オリョール海に進出し、<br>敵通商破壊艦隊を排除して、<br>海上輸送ラインを防衛せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Eastern Orel Bay",
         "orig": "東部オリョール海",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Operation I-Go",
         "orig": "O1号作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "A powerful enemy battlegroup is invading the waters around Okinoshima Island. Sail out in full force and annihilate them!",
         "orig": "沖ノ島海域に襲来した、<br>有力な敵機動部隊を迎撃、<br>全力出撃で、これを撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Okinoshima Island",
         "orig": "沖ノ島海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Operation A-Go: The Fleet's Decisive Battle",
         "orig": "あ号艦隊決戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "There are reports of an enemy counteroffensive. Form a cruiser patrol group and track their movements!",
         "orig": "同方面に敵反攻の兆候が報告さ<br>れた。巡洋艦を中心に哨戒部隊<br>を編成、敵艦隊の動向を探れ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Okinoshima Sea",
         "orig": "沖ノ島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Okinoshima Patrol Battles",
         "orig": "沖ノ島沖戦闘哨戒",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Advance into Northern waters and patrol the Moray Sea!",
         "orig": "北方海域に艦隊を進出させ、<br>モーレイ海を哨戒せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "The Moray Sea",
         "orig": "モーレイ海",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Moray Sea Patrol",
         "orig": "モーレイ海哨戒",
         "src": "/kcsapi/api_start2"
     },
@@ -2901,231 +2937,277 @@
     },
     {
         "ctx": "api_name",
+        "en": "The Kis Island",
         "orig": "キス島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Kis Island Withdrawal Tactics",
         "orig": "キス島撤退作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Form an Aviation fleet with at least two Carriers and search the Northern Sea for the enemy positions!",
         "orig": "空母２隻以上を擁する空母機動<br>部隊をもって北方海域へ進出。<br>敵情の強行偵察を敢行せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "The Alfonsinoes",
         "orig": "アルフォンシーノ方面",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "The Advance for Alfonsinoes",
         "orig": "アルフォンシーノ方面進出",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "A major enemy anchorage has been discovered deep in the northern sea. Sail out in an all-out attack to destroy it!",
         "orig": "北方海域奥地に敵艦隊の大規模<br>泊地を発見！我が艦隊の総力を<br>挙げてこれを撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Throughout the Northern Sea",
         "orig": "北方海域全域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Northern Sea Fleet Decisive Battle",
         "orig": "北方海域艦隊決戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "There is a movement of enemy reinforcements to the northern sea. Dispatch a medium size fleet, intercept the enemy reinforcements and destroy it!",
         "orig": "北方海域に敵増援の動きがある。<br>中規模の水上打撃部隊を派遣し、<br>敵増援を捕捉、これを撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Aleutian Islands Campaign",
         "orig": "北方AL海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Northern Water Combat Patrols",
         "orig": "北方海域戦闘哨戒",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "As the first step of the Western strategy, carry out an operation to capture Jam Island! <br>(Take Anti-Submarine Precautions)",
         "orig": "西方作戦の第一段階として、ジャム島攻略作戦を展開せよ！(対潜警戒を厳とせよ)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Battle of Jam Island",
         "orig": "ジャム島攻略作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "We are undertaking operations to control the Curry Ocean. Secure the mines and incapacitate the enemy fleet!",
         "orig": "カレー洋の制圧作戦を行う。採掘地域を確保しつつ、カレー半島水域の敵艦隊を無力化せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Curry Ocean Pacification",
         "orig": "カレー洋制圧戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Form an air fleet to destroy the enemy home port of Ri Lanka!",
         "orig": "空母を伴った艦隊を編成し、リランカ島の敵母港に展開する敵艦隊を叩け！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Bombing of Ri Lanka",
         "orig": "リランカ島空襲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Break through the enemy picket line in the Western Curry Ocean and destroy the core of the enemy fleet off the coast of Casgadama!",
         "orig": "カレー洋西方の敵哨戒線を突破、カスガダマ島沖へ侵攻し、敵東方艦隊の中枢部隊を撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Battle of Casgadama",
         "orig": "カスガダマ沖海戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "The Oriental enemy forces have received a major blow by our fleet and are currently regathering at the Ri-Lanka Island harbour. Organise a military raid unit and destroy the enemy reinforcements!",
         "orig": "我が艦隊により大打撃を受けた<br>敵東洋艦隊がリランカ島の港湾<br>に再集結しつつある。遊撃部隊<br>を編成し、敵増援を撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Curry Ocean Ri-Lanka Island",
         "orig": "カレー洋リランカ島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Operation \"Diminish the Oriental Abyssal Fleet\"",
         "orig": "深海東洋艦隊漸減作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Create a diverse surface fleet to expand into the southern sea area!",
         "orig": "練度の高い水上打撃部隊を編成し、南方海域への進出を図れ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "The Forefront of the Southern Sea",
         "orig": "南方海域前面",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Southern Sea Advancement Tactics",
         "orig": "南方海域進出作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "We are executing Operation MO. Form a carrier battle group and crush the enemy task force!",
         "orig": "MO作戦を実施する。空母機動部隊を展開し、南方海域に出没する敵機動部隊を叩け！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "The Coral Islands",
         "orig": "珊瑚諸島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Coral Islands Naval Battle",
         "orig": "珊瑚諸島沖海戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Engage in a daring night raid against the enemy fleet. Your goal is to destroy the transport they are escorting!",
         "orig": "敵泊地に対して水上打撃部隊による夜戦突撃を敢行し、艦隊後方の敵輸送艦を叩け！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sav Island",
         "orig": "サブ島沖海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "First Battle of the Solomon Sea",
         "orig": "第一次サーモン沖海戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Perform a vital \"rat transport\" operation. If possible, also destroy the enemy fleet in the area!",
         "orig": "南方海域に有力な艦隊を投入し<br>鼠輸送作戦を敢行、可能であれ<br>ば同方面の敵艦隊も撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Salmon Sea Area",
         "orig": "サーモン海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Tokyo Express",
         "orig": "東京急行",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "The approach of a powerful enemy task force has been confirmed in southern waters. Form a carrier task force and intercept it!",
         "orig": "南方海域に敵の有力な機動部隊<br>の接近が確認された。空母機動<br>部隊を以て、これを迎撃せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Salmon Sea Area",
         "orig": "サーモン海域北方",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Second Battle of the Solomon Sea",
         "orig": "第二次サーモン海戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Organize a strong submarine fleet and advance a patrol line into the Middle Sea region. Locate enemy fleets and gradually destroy them!",
         "orig": "有力な潜水艦隊を編成し、中部<br>海域哨戒線に進出せよ。敵艦隊<br>を発見、これを漸減撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Central Waters Patrol Line",
         "orig": "中部海域哨戒線",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Submarine Operation",
         "orig": "潜水艦作戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Expand to the forward part of the MS Archipelago sea, seize the enemy fleet that is slowly advancing to capture the archipelago, and destroy them with all your might!",
         "orig": "MS諸島沖前面に展開し、同諸島<br>方面に接近しつつある敵攻略部<br>隊を捕捉、全力で撃滅せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "MS Archipelago",
         "orig": "MS諸島沖",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Defense of the MS Archipelago",
         "orig": "MS諸島防衛戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_infotext",
+        "en": "Deploy a fleet consisting of seaplane tenders equipped with flying boats or recon planes, light cruisers and destroyers, and carry out the aerial scout mission \"Operation K\"!",
         "orig": "飛行艇または水上偵察機を装備<br>した水上機母艦・軽巡・駆逐艦<br>による艦隊を同方面へ進出、航<br>空偵察「Ｋ作戦」を実施せよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Guano Atoll Sea",
         "orig": "グアノ環礁沖海域",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_opetext",
+        "en": "Operation K",
         "orig": "K作戦",
         "src": "/kcsapi/api_start2"
     },
@@ -3421,6 +3503,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Operation Kita",
         "orig": "北号作戦",
         "src": "/kcsapi/api_start2"
     },
@@ -3581,6 +3664,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Operation MO",
         "orig": "MO作戦",
         "src": "/kcsapi/api_start2"
     },
@@ -3641,6 +3725,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Replenishment Fleet Fuel Pack <br>(Recovers 200 Fuel)",
         "orig": "補給のお供！燃料パック<br>(燃料を200回復させます)",
         "src": "/kcsapi/api_start2"
     },
@@ -3651,6 +3736,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Replenishment Fleet Ammo Pack <br>(Recovers 200 Ammo)",
         "orig": "補給のお供！弾薬パック<br>(弾薬を200回復させます)",
         "src": "/kcsapi/api_start2"
     },
@@ -3661,6 +3747,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Ship Construction Steel Pack <br>(Recovers 150 Steel)",
         "orig": "艦の建造に！鋼材パック<br>(鋼材を150回復させます)",
         "src": "/kcsapi/api_start2"
     },
@@ -3671,6 +3758,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Aircraft-related Bauxite Pack <br>(Recovers 100 Bauxite)",
         "orig": "航空機関連にボーキサイトパック(ボーキサイトを100回復させます)",
         "src": "/kcsapi/api_start2"
     },
@@ -3681,6 +3769,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Construction and Development Pack <br>(Gives 7 Development Material)",
         "orig": "建造・開発をバリバリどうぞ！<br>開発資材パック(7回分)",
         "src": "/kcsapi/api_start2"
     },
@@ -3691,6 +3780,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Instant Construction Pack <br>(Gives 5 Fast Construcion Material)",
         "orig": "建造時間を劇的に短縮！<br>高速建造材パック(5回分)",
         "src": "/kcsapi/api_start2"
     },
@@ -3701,6 +3791,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Instant Repair Pack <br>(Gives 5 Fast Repair Material)",
         "orig": "修理、お待たせしません！<br>高速修復材パック(5回分)",
         "src": "/kcsapi/api_start2"
     },
@@ -3711,6 +3802,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Gives 1500 Steel, 200 Ammo, 200 Fuel, 200 Bauxite and 2 Development Materials",
         "orig": "お買得！工廠セット(鋼1500，ボ200，弾200，燃200，開発資材2)",
         "src": "/kcsapi/api_start2"
     },
@@ -3721,6 +3813,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Affordable Sortie Pack <br>(Gives 500 Fuel, 500 Ammo, 200 Steel and 2 Instant Repairs)",
         "orig": "お買得！出撃セット(燃500，弾500，鋼200，高速修復材2)",
         "src": "/kcsapi/api_start2"
     },
@@ -3731,6 +3824,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Gives 1 Key <br>(Unlocks 1 Repair Dock OR 1 Construction Slot) ",
         "orig": "ドック増設セット(鍵1，開発資材5，高速建造5，高速修復5)",
         "src": "/kcsapi/api_start2"
     },
@@ -3741,11 +3835,13 @@
     },
     {
         "ctx": "api_description",
+        "en": "Protect Ship from Sinking <br>(Gives 1 Repair Team)",
         "orig": "大切な艦を轟沈から護ります！<br>応急修理要員(1回分)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Repair Team",
         "orig": "応急修理要員",
         "src": "/kcsapi/api_start2"
     },
@@ -3771,21 +3867,25 @@
     },
     {
         "ctx": "api_description",
+        "en": "Protect and Recover Ship from Sinking <br>(Gives 1 Repair Goddess)",
         "orig": "轟沈を防ぎ耐久補給全回復！<br>応急修理女神(1回分)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Repair Goddess",
         "orig": "応急修理女神",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Customized Furniture Pack <br>(Gives 1 Furniture Fairy)",
         "orig": "特注家具を製作できます！<br>特注家具職人(1回分)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furniture Fairy",
         "orig": "特注家具職人",
         "src": "/kcsapi/api_start2"
     },
@@ -3796,11 +3896,13 @@
     },
     {
         "ctx": "api_name",
+        "en": "Home Port Expansion",
         "orig": "母港拡張",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Drop of oil ... fuel shortage resolved! <br>(Recovers 1000 Fuel)",
         "orig": "油の一滴は…燃料不足解消に！<br>タンカー徴用(燃1000)",
         "src": "/kcsapi/api_start2"
     },
@@ -3811,16 +3913,19 @@
     },
     {
         "ctx": "api_description",
+        "en": "Gives 1 Food Supply Ship Mamiya <br>(instant fatigue recovery for a whole fleet)",
         "orig": "給糧艦「間宮」召喚 艦娘の疲れた心を食糧や甘味でたちまち回復(1艦隊1回分)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Supply Ship Mamiya",
         "orig": "給糧艦「間宮」",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Source of duralumin aircraft! <br>(Recovers 550 Bauxite)",
         "orig": "ジュラルミンは航空機の源！<br>アルミ大増産(ボ550)",
         "src": "/kcsapi/api_start2"
     },
@@ -3831,11 +3936,13 @@
     },
     {
         "ctx": "api_description",
+        "en": "A set of marriage papers and ring that allows you to marry the ship of your choice ",
         "orig": "レベルが99になった艦娘とケッコンカッコカリ！<br>書類一式＆指輪(1回分)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Marriage Ring",
         "orig": "書類一式＆指輪",
         "src": "/kcsapi/api_start2"
     },
@@ -3851,6 +3958,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Akashi's Improvement Arsenal Repair Pack <br>(Gives 10 Improvement Materials)",
         "orig": "明石さんの「改修工廠」で、装備を改修します。<br>(改修資材10)",
         "src": "/kcsapi/api_start2"
     },
@@ -3861,6 +3969,7 @@
     },
     {
         "ctx": "api_description",
+        "en": "Gives 5 Food Supply Ship Irako <br>(boost morale for the whole fleet)",
         "orig": "給糧艦「伊良湖」召喚 甘いスイーツで何人かの艦娘の気分がたちまち高揚！(5回分)",
         "src": "/kcsapi/api_start2"
     },
@@ -3876,6 +3985,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Combat Provisions",
         "orig": "戦闘糧食",
         "src": "/kcsapi/api_start2"
     },
@@ -3886,6 +3996,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Oversea Supplies",
         "orig": "洋上補給",
         "src": "/kcsapi/api_start2"
     },
@@ -3896,16 +4007,19 @@
     },
     {
         "ctx": "api_name",
+        "en": "Reinforcement Expansion",
         "orig": "補強増設",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Mutsuki! <br>Let's work together!",
         "orig": "睦月です。<br>はりきって、まいりましょー！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mutsuki",
         "orig": "睦月",
         "src": "/kcsapi/api_start2"
     },
@@ -3916,11 +4030,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Kisaragi. <br>Please keep me at your side.",
         "orig": "如月と申します。<br>おそばに置いてくださいね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kisaragi",
         "orig": "如月",
         "src": "/kcsapi/api_start2"
     },
@@ -3931,11 +4047,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Nagatsuki here. <br>Don't make light of us destroyers. We're useful.",
         "orig": "長月だ。<br>駆逐艦と侮るなよ。役に立つはずだ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nagatsuki",
         "orig": "長月",
         "src": "/kcsapi/api_start2"
     },
@@ -3946,11 +4064,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "You're the commander, right? I'm Mikazuki. <br>I hope you welcome me warmly into your fleet.",
         "orig": "あなたが司令官ですね。三日月です。<br>どうぞお手柔らかにお願いします。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mikazuki",
         "orig": "三日月",
         "src": "/kcsapi/api_start2"
     },
@@ -3961,11 +4081,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Nice to meet you! I'm Fubuki! <br>Thanks for having me!",
         "orig": "はじめまして吹雪です。<br>よろしくお願い致します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fubuki",
         "orig": "吹雪",
         "src": "/kcsapi/api_start2"
     },
@@ -3976,11 +4098,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Shirayuki. <br>Thanks for having me.",
         "orig": "白雪です。<br>よろしくお願いします。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shirayuki",
         "orig": "白雪",
         "src": "/kcsapi/api_start2"
     },
@@ -3991,11 +4115,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Miyuki here. <br>Great to meet you! ",
         "orig": "深雪だよ。<br>よろしくな！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Miyuki",
         "orig": "深雪",
         "src": "/kcsapi/api_start2"
     },
@@ -4006,11 +4132,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "U-Um... my name is Isonami. <br>Pleased to meet you.",
         "orig": "あ、あの…磯波と申します。<br>よろしくお願いいたします。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Isonami",
         "orig": "磯波",
         "src": "/kcsapi/api_start2"
     },
@@ -4021,11 +4149,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Nice to meet you. <br>I'm Ayanami, a special class destroyer.",
         "orig": "ごきげんよう。<br>特型駆逐艦、綾波と申します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ayanami",
         "orig": "綾波",
         "src": "/kcsapi/api_start2"
     },
@@ -4036,11 +4166,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Shikinami. <br>Let's get along.",
         "orig": "アタシの名は敷波。<br>以後よろしく。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shikinami",
         "orig": "敷波",
         "src": "/kcsapi/api_start2"
     },
@@ -4051,11 +4183,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Special-type destroyer, 'Akebono'. <br>Hey! Don't look at me, you dirty Admiral! ",
         "orig": "特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akebono",
         "orig": "曙",
         "src": "/kcsapi/api_start2"
     },
@@ -4066,11 +4200,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the special-type, Ayanami-class destroyer Ushio. <br>It would be nice to be dismissed soon...",
         "orig": "特型駆逐艦…綾波型の「潮」です。<br>もう下がってよろしいでしょうか…。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ushio",
         "orig": "潮",
         "src": "/kcsapi/api_start2"
     },
@@ -4081,11 +4217,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "We meet at last! I'm Kagerou. <br>Treat me well!",
         "orig": "やっと会えた！　陽炎よ。<br>よろしくねっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kagerou",
         "orig": "陽炎",
         "src": "/kcsapi/api_start2"
     },
@@ -4096,11 +4234,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Shiranui here. <br>I look forward to your guidance and encouragement.",
         "orig": "不知火です。<br>ご指導ご鞭撻、よろしくです。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shiranui",
         "orig": "不知火",
         "src": "/kcsapi/api_start2"
     },
@@ -4111,11 +4251,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Kuroshio, nice to meet 'cha!",
         "orig": "黒潮や、よろしゅうな。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kuroshio",
         "orig": "黒潮",
         "src": "/kcsapi/api_start2"
     },
@@ -4126,11 +4268,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the eighth Kagerou-class destroyer, Yukikaze! <br>I'll be in your care! ",
         "orig": "陽炎型駆逐艦８番艦、雪風です。<br>どうぞ、よろしくお願いしますっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yukikaze",
         "orig": "雪風",
         "src": "/kcsapi/api_start2"
     },
@@ -4141,11 +4285,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Light cruiser Nagara here! <br>Please take good care of me! ",
         "orig": "軽巡、長良です。<br>よろしくお願いします！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nagara",
         "orig": "長良",
         "src": "/kcsapi/api_start2"
     },
@@ -4156,11 +4302,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Isuzu. Leave the torpedo squadrons to me. <br>I'll bring victory to the Admiral with all my power. Pleased to meet you!",
         "orig": "五十鈴です。水雷戦隊の指揮ならお任せ。<br>全力で提督を勝利に導くわ。よろしくね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Isuzu",
         "orig": "五十鈴",
         "src": "/kcsapi/api_start2"
     },
@@ -4171,11 +4319,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Yura, the fourth Nagara-class light cruiser. <br>Pleased to make your acquaintance!",
         "orig": "長良型軽巡四番艦の「由良」です。<br>どうぞ、よろしくお願いいたしますっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yura",
         "orig": "由良",
         "src": "/kcsapi/api_start2"
     },
@@ -4186,11 +4336,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello. I'm light cruiser Ooi. <br>Pleased to make your acquaintance.",
         "orig": "こんにちはー。軽巡洋艦、大井です。<br>どうぞ、よろしくお願い致しますね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ooi",
         "orig": "大井",
         "src": "/kcsapi/api_start2"
     },
@@ -4201,11 +4353,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the light cruiser Kitakami. <br>Nice ta meet 'ya.",
         "orig": "アタシは軽巡、北上。<br>まーよろしく。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kitakami",
         "orig": "北上",
         "src": "/kcsapi/api_start2"
     },
@@ -4216,11 +4370,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Super-dreadnought Fusou-class, the elder Fusou here. <br>Please take care of me along with my sister Yamashiro.",
         "orig": "扶桑型超弩級戦艦、姉の扶桑です。<br>妹の山城ともども、よろしくお願い致します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fusou",
         "orig": "扶桑",
         "src": "/kcsapi/api_start2"
     },
@@ -4231,11 +4387,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "The younger of the Fusou-class battleship sisters, Yamashiro here. <br>Umm, have you seen my sister Fusou?",
         "orig": "扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yamashiro",
         "orig": "山城",
         "src": "/kcsapi/api_start2"
     },
@@ -4246,11 +4404,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Satsuki here. <br>Nice to meet ya! ",
         "orig": "皐月だよっ。<br>よろしくな！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Satsuki",
         "orig": "皐月",
         "src": "/kcsapi/api_start2"
     },
@@ -4261,11 +4421,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "You can call me Fumizuki. <br>Nice to meet you~",
         "orig": "あたし、文月っていうの。<br>よろしくぅ～。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fumizuki",
         "orig": "文月",
         "src": "/kcsapi/api_start2"
     },
@@ -4276,11 +4438,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Kikuzuki here. Let's go together.",
         "orig": "私が菊月だ、共にゆこう。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kikuzuki",
         "orig": "菊月",
         "src": "/kcsapi/api_start2"
     },
@@ -4291,11 +4455,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hmm? Ah, I'm Mochizuki.",
         "orig": "ん？あぁ、望月でーす。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mochizuki",
         "orig": "望月",
         "src": "/kcsapi/api_start2"
     },
@@ -4306,11 +4472,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm... Hatsuyuki... Nice to meet you.",
         "orig": "初雪……です……よろしく。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsuyuki",
         "orig": "初雪",
         "src": "/kcsapi/api_start2"
     },
@@ -4321,11 +4489,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "So you're the commander, huh? <br>Well, you've better try your damn best.",
         "orig": "あんたが司令官ね。<br>ま、せいぜい頑張りなさい！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Murakumo",
         "orig": "叢雲",
         "src": "/kcsapi/api_start2"
     },
@@ -4336,11 +4506,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Akatsuki! <br>Treat me like the fully-fledged lady I am!\n",
         "orig": "暁よ。<br>一人前のレディーとして扱ってよね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akatsuki",
         "orig": "暁",
         "src": "/kcsapi/api_start2"
     },
@@ -4351,11 +4523,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hibiki here. <br>I'm often referred to as \"The Phoenix\" due to my exploits.\n",
         "orig": "響だよ。<br>その活躍ぶりから不死鳥の通り名もあるよ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hibiki",
         "orig": "響",
         "src": "/kcsapi/api_start2"
     },
@@ -4366,11 +4540,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Ikazuchi here! Don't read my name as Kaminari! <br>I'll quiz you later! ",
         "orig": "雷よ！　かみなりじゃないわ！<br>そこのとこもよろしく頼むわねっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ikazuchi",
         "orig": "雷",
         "src": "/kcsapi/api_start2"
     },
@@ -4381,11 +4557,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Inazuma. <br>Pleased to meet you.",
         "orig": "電です。<br>どうか、よろしくお願いいたします。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Inazuma",
         "orig": "電",
         "src": "/kcsapi/api_start2"
     },
@@ -4396,11 +4574,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "We are Hatsuharu. We thank you in advance.\n",
         "orig": "わらわが初春じゃ。<br>よろしく頼みますぞ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsuharu",
         "orig": "初春",
         "src": "/kcsapi/api_start2"
     },
@@ -4411,11 +4591,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello, it's Nenohi! <br>I hope my name wasn't too hard to read, yes?",
         "orig": "初めまして、ねのひ、だよぉ！<br>艦名、読みづらくなんか、ないよね？ね？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nenohi",
         "orig": "子日",
         "src": "/kcsapi/api_start2"
     },
@@ -4426,11 +4608,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Destroyer Wakaba here.",
         "orig": "駆逐艦、若葉だ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Wakaba",
         "orig": "若葉",
         "src": "/kcsapi/api_start2"
     },
@@ -4441,11 +4625,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "The fourth ship in the Hatsuharu-class, Hatsushimo. <br>Everybody, very pleased to meet you!",
         "orig": "初春型四番艦、初霜です。<br>皆さん、よろしくお願いします！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsushimo",
         "orig": "初霜",
         "src": "/kcsapi/api_start2"
     },
@@ -4456,11 +4642,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Lead ship of the Shiratsuyu-class destroyers, Shiratsuyu here! <br>Yes, the lead ship! ",
         "orig": "白露型駆逐艦一番艦、「白露」です！<br>はい、一番艦ですっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shiratsuyu",
         "orig": "白露",
         "src": "/kcsapi/api_start2"
     },
@@ -4471,11 +4659,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Shigure, of the Shiratsuyu-class destroyers. <br>Nice to meet you.\n",
         "orig": "僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shigure",
         "orig": "時雨",
         "src": "/kcsapi/api_start2"
     },
@@ -4486,11 +4676,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hi hi! I'm the Shiratsuyu-class destroyer Murasame! <br>Everyone, nice to meet you! ",
         "orig": "はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Murasame",
         "orig": "村雨",
         "src": "/kcsapi/api_start2"
     },
@@ -4501,11 +4693,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hi, I'm Yuudachi, a Shiratsuyu-class destroyer. <br>Nice to meet you!",
         "orig": "こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yuudachi",
         "orig": "夕立",
         "src": "/kcsapi/api_start2"
     },
@@ -4516,11 +4710,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Samidare! I look forward to working with you. <br>Please leave any escort missions to me!\n",
         "orig": "五月雨っていいます！よろしくお願いします。<br>護衛任務はお任せください！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Samidare",
         "orig": "五月雨",
         "src": "/kcsapi/api_start2"
     },
@@ -4531,11 +4727,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Cheers! I'm Suzukaze! <br>With me in your fleet, you won't have to worry about anything anymore!",
         "orig": "ちわ！涼風だよ。<br>私が艦隊に加われば百人力さ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Suzukaze",
         "orig": "涼風",
         "src": "/kcsapi/api_start2"
     },
@@ -4546,11 +4744,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Arare....<br> I won't say 'ncha-'... Look after me...\n",
         "orig": "霰です…<br>んちゃ…とかはいいません…よろしく…",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Arare",
         "orig": "霰",
         "src": "/kcsapi/api_start2"
     },
@@ -4561,11 +4761,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Kasumi. <br>What are we waiting for? Come on!",
         "orig": "霞よ。<br>ガンガンいくわよ。ついてらっしゃい。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kasumi",
         "orig": "霞",
         "src": "/kcsapi/api_start2"
     },
@@ -4576,11 +4778,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the destroyer Shimakaze! I won't lose to anyone in speed. <br>Swiftly I go, like the island breeze.\n",
         "orig": "駆逐艦島風です。スピードなら誰にも負けません。<br>速きこと、島風の如し、です！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shimakaze",
         "orig": "島風",
         "src": "/kcsapi/api_start2"
     },
@@ -4591,11 +4795,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Tenryuu. <br>Heh, ya scared?",
         "orig": "オレの名は天龍。<br>フフフ、怖いか？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tenryuu",
         "orig": "天龍",
         "src": "/kcsapi/api_start2"
     },
@@ -4606,11 +4812,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Nice to meet you, I'm Tatsuta~ <br>I hope Tenryuu hasn't been causing you trouble~\n",
         "orig": "初めまして、龍田だよ。<br>天龍ちゃんがご迷惑かけてないかなあ～。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tatsuta",
         "orig": "龍田",
         "src": "/kcsapi/api_start2"
     },
@@ -4621,11 +4829,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Natori...<br>I'll do my best not to cause you any trouble!\n",
         "orig": "名取といいます。<br>ご迷惑をおかけしないように、が、頑張ります。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Natori",
         "orig": "名取",
         "src": "/kcsapi/api_start2"
     },
@@ -4636,11 +4846,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Sendai has arrived.<br>Please leave the night battles to me.\n",
         "orig": "川内、参上。<br>夜戦なら任せておいて！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sendai",
         "orig": "川内",
         "src": "/kcsapi/api_start2"
     },
@@ -4651,11 +4863,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Um... I'm light cruiser Jintsuu... <br>Pleased to meet you...",
         "orig": "あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Jintsuu",
         "orig": "神通",
         "src": "/kcsapi/api_start2"
     },
@@ -4666,11 +4880,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "The fleet's idol, Naka here! <br>Nice to meet you!",
         "orig": "艦隊のアイドル、那珂（なか）ちゃんだよー！<br>よっろしくぅ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Naka",
         "orig": "那珂",
         "src": "/kcsapi/api_start2"
     },
@@ -4681,31 +4897,37 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Ooi here, reborn as a heavy torpedo cruiser! <br>Long time no see!",
         "orig": "重雷装艦として、生まれ変わった大井です。<br>お久しぶりです！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ooi Kai",
         "orig": "大井改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "A brand new Kitakami... that's me, all right. <br>I feel a lot more grown up, loaded to the brim with oxygen torpedos.",
         "orig": "新しい北上、それがアタシ。<br>酸素魚雷を満載して、ちょっと大人になったでしょ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kitakami Kai",
         "orig": "北上改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Furutaka. I'll be happy to show you the strengths of us heavy cruisers.",
         "orig": "古鷹と言います。<br>重巡洋艦のいいところ、たくさん知ってもらえると嬉しいです。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furutaka",
         "orig": "古鷹",
         "src": "/kcsapi/api_start2"
     },
@@ -4716,11 +4938,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Second of the Furutaka-class heavy cruisers, Kako here. <br>Let's get along!",
         "orig": "古鷹型重巡の2番艦、加古ってんだ、よっろしくぅー！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kako",
         "orig": "加古",
         "src": "/kcsapi/api_start2"
     },
@@ -4731,11 +4955,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hi, thanks for your time! I'm Aoba! <br>Could you spare a few words?!",
         "orig": "ども、恐縮です、青葉ですぅ！<br>一言お願いします！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Aoba",
         "orig": "青葉",
         "src": "/kcsapi/api_start2"
     },
@@ -4746,11 +4972,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Myoukou, nameship of the Myoukou-class heavy cruisers. <br>Let's work together.",
         "orig": "私、妙高型重巡洋艦、妙高と申します。<br>共に頑張りましょう。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Myoukou",
         "orig": "妙高",
         "src": "/kcsapi/api_start2"
     },
@@ -4761,11 +4989,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "You are my commander? <br>I am Nachi. I appreciate your contribution.\n",
         "orig": "貴様が司令官か。<br>私は那智。よろしくお願いする。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nachi",
         "orig": "那智",
         "src": "/kcsapi/api_start2"
     },
@@ -4776,11 +5006,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hi, I'm Ashigara. My specialty is surface combat. <br>Nice to meet you.",
         "orig": "足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ashigara",
         "orig": "足柄",
         "src": "/kcsapi/api_start2"
     },
@@ -4791,11 +5023,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Haguro, the youngest of the Myoukou-class heavy cruiser sisters. <br>U-Um... I'm sorry!",
         "orig": "羽黒です。妙高型重巡洋艦姉妹の末っ娘です。<br>あ、あの…ごめんなさいっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Haguro",
         "orig": "羽黒",
         "src": "/kcsapi/api_start2"
     },
@@ -4806,11 +5040,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good morning. I am Takao.<br>It's great that you appear to be a model Admiral.\n",
         "orig": "こんにちは。高雄です。<br>貴方のような素敵な提督で良かったわ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Takao",
         "orig": "高雄",
         "src": "/kcsapi/api_start2"
     },
@@ -4821,11 +5057,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello, I'm Atago. Admiral, please remember it, okay?",
         "orig": "私は愛宕、提督、覚えてくださいね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Atago",
         "orig": "愛宕",
         "src": "/kcsapi/api_start2"
     },
@@ -4836,11 +5074,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Yo! Name's Maya, nice to meet you.\n",
         "orig": "よ！アタシ、摩耶ってんだ、よろしくな。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maya",
         "orig": "摩耶",
         "src": "/kcsapi/api_start2"
     },
@@ -4851,11 +5091,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I am Choukai. <br>My best regards.\n",
         "orig": "私が鳥海です。よろしくです。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Choukai",
         "orig": "鳥海",
         "src": "/kcsapi/api_start2"
     },
@@ -4866,11 +5108,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Mogami.<br>It's all right, I won't run into anyone this time, really!\n",
         "orig": "ボクが最上さ。<br>大丈夫、今度は衝突しないって。ホントだよ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mogami",
         "orig": "最上",
         "src": "/kcsapi/api_start2"
     },
@@ -4881,11 +5125,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I am Tone! <br>With my addition to the fleet, there'll be no problems in scouting out the enemy!\n",
         "orig": "吾輩が利根である！<br>吾輩が艦隊に加わる以上、もう、索敵の心配はないぞ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tone",
         "orig": "利根",
         "src": "/kcsapi/api_start2"
     },
@@ -4896,11 +5142,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Pleased to meet you. <br>Second of the Tone-class heavy cruisers, Chikuma here.\n",
         "orig": "はじめまして、利根型２番艦、筑摩と申します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chikuma",
         "orig": "筑摩",
         "src": "/kcsapi/api_start2"
     },
@@ -4911,21 +5159,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "We meet again, Admiral. It's me, Mogami. <br>How's my flight deck? Does it suit me?",
         "orig": "提督、また会ったね？最上だよ。<br>ボクの飛行甲板どう？似合ってる？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mogami Kai",
         "orig": "最上改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Light aircraft carrier Shouhou, at your service. <br>I realize that I'm a little small, but please make a place for me in your fleet!\n",
         "orig": "軽空母、祥鳳です。<br>はい、ちょっと小柄ですけど、ぜひ提督の機動部隊に加えてくださいね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shouhou",
         "orig": "祥鳳",
         "src": "/kcsapi/api_start2"
     },
@@ -4936,11 +5188,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "My name is Izumo Ma— wait,  Hiyou. <br>I'm an aircraft carrier. Pleased to meet you, Admiral!\n",
         "orig": "名前は出雲ま…じゃなかった、飛鷹です。<br>航空母艦よ。よろしくね、提督！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiyou",
         "orig": "飛鷹",
         "src": "/kcsapi/api_start2"
     },
@@ -4951,11 +5205,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Light aircraft carrier, Ryuujou here! Ain't my silhouette distinctive? <br>Regardless, launching planes one after another makes me a proper carrier, ya know! Just count on me!\n",
         "orig": "軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ryuujou",
         "orig": "龍驤",
         "src": "/kcsapi/api_start2"
     },
@@ -4966,11 +5222,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Super-dreadnought, 1st of the Ise-class, Ise. <br> Setting off!\n",
         "orig": "超弩級戦艦、伊勢型の１番艦、伊勢。<br>参ります！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ise",
         "orig": "伊勢",
         "src": "/kcsapi/api_start2"
     },
@@ -4981,11 +5239,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the British-born returnee, Kongou! <br>Nice to meet you!\n",
         "orig": "英国で生まれた帰国子女の金剛デース。<br>ヨロシクオネガイシマース！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kongou",
         "orig": "金剛",
         "src": "/kcsapi/api_start2"
     },
@@ -4996,11 +5256,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Fast battleship Haruna, reporting for duty. <br>You're the admiral, correct? Please take good care of me.\n",
         "orig": "高速戦艦、榛名、着任しました。<br>あなたが提督なのね？　よろしくお願い致します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Haruna",
         "orig": "榛名",
         "src": "/kcsapi/api_start2"
     },
@@ -5011,11 +5273,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I am the battleship Nagato. Pleased to meet you. <br>Just leave the enemy battleships to me.\n",
         "orig": "私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nagato",
         "orig": "長門",
         "src": "/kcsapi/api_start2"
     },
@@ -5026,11 +5290,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Second of the Nagato-class battleships, Mutsu here. Pleased to meet you. <br>Don't play with fire too much, okay? Please...\n",
         "orig": "長門型戦艦２番艦の陸奥よ。よろしくね。<br>あまり火遊びはしないでね…お願いよ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mutsu",
         "orig": "陸奥",
         "src": "/kcsapi/api_start2"
     },
@@ -5041,21 +5307,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the aviation battleship Ise! <br>With a rear-facing flight deck and 2 catapult launchers, I can make use of the power of aviation!\n",
         "orig": "航空戦艦、伊勢です。<br>後部飛行甲板と、カタパルト２基で航空戦力を運用可能よ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ise Kai",
         "orig": "伊勢改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the aircraft carrier Akagi.<br> If you need a mobile carrier squadron, just leave everything to me.\n",
         "orig": "航空母艦、赤城です。<br>空母機動部隊を編制するなら、私にお任せくださいませ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akagi",
         "orig": "赤城",
         "src": "/kcsapi/api_start2"
     },
@@ -5066,11 +5336,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Aircraft carrier, Kaga here. <br>Are you my admiral? ...I have faith in you.",
         "orig": "航空母艦、加賀です。<br>貴方が私の提督なの？　それなりに期待はしているわ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kaga",
         "orig": "加賀",
         "src": "/kcsapi/api_start2"
     },
@@ -5081,11 +5353,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Is the microphone's volume fine? Check, 1, 2...<br>Alright. How do you do, I'm Kirishima.\n",
         "orig": "マイク音量大丈夫…？チェック、1，2……。<br>よし。はじめまして、私、霧島です。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kirishima",
         "orig": "霧島",
         "src": "/kcsapi/api_start2"
     },
@@ -5096,11 +5370,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Hiei, Kongou's younger sister. <br>I look forward to gaining experience and getting closer to my sister's brilliance.",
         "orig": "金剛お姉さまの妹分、比叡です。<br>経験を積んで、姉さまに少しでも近づきたいです。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiei",
         "orig": "比叡",
         "src": "/kcsapi/api_start2"
     },
@@ -5111,11 +5387,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "You're the Admiral? I see. Anyway... <br>Second of the Ise-class battleships, Hyuuga. Remember me, if you will.",
         "orig": "あなたが提督？ふうん。いいけど。<br>伊勢型戦艦２番艦、日向よ。一応覚えておいて。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hyuuga",
         "orig": "日向",
         "src": "/kcsapi/api_start2"
     },
@@ -5126,21 +5404,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Ise-class Aviation Battleship, Hyuuga. Moving forth.",
         "orig": "伊勢型航空戦艦、日向。<br>推して参る。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hyuuga Kai",
         "orig": "日向改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Aircraft carrier, Houshou here. <br>Though I'm inexperienced, I look forward to your guidance.",
         "orig": "航空母艦、鳳翔です。<br>ふつつか者ですが、よろしくお願い致します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Houshou",
         "orig": "鳳翔",
         "src": "/kcsapi/api_start2"
     },
@@ -5151,11 +5433,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the aircraft carrier Souryuu. <br>Count me in when you need to assemble a carrier task force!",
         "orig": "航空母艦、蒼龍です。<br>空母機動部隊を編制するなら、私もぜひ入れてね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Souryuu",
         "orig": "蒼龍",
         "src": "/kcsapi/api_start2"
     },
@@ -5166,11 +5450,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Aircraft carrier Hiryuu here. <br>Leave the carrier battles to me. I can fight on in each and every adversity.",
         "orig": "航空母艦、飛龍です。<br>空母戦ならお任せ！どんな苦境でも戦えます！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiryuu",
         "orig": "飛龍",
         "src": "/kcsapi/api_start2"
     },
@@ -5181,11 +5467,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Merchant ship turned aircraft carrier, Junyou here~! <br>Waha~",
         "orig": "商船改装空母、隼鷹でーすっ！<br>ひゃっはぁー！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Junyou",
         "orig": "隼鷹",
         "src": "/kcsapi/api_start2"
     },
@@ -5196,11 +5484,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the Ayanami-class destroyer Oboro. <br>I won't lose to anyone... probably...",
         "orig": "アタシ、綾波型駆逐艦「朧」。<br>誰にも負けない…たぶん……",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Oboro",
         "orig": "朧",
         "src": "/kcsapi/api_start2"
     },
@@ -5211,11 +5501,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Ayanami-class destroyer Sazanami, Master. <br>You write it like this, but read it as 'Sazanami'.",
         "orig": "綾波型駆逐艦「漣」です、ご主人さま。<br>こう書いてさざなみと読みます。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sazanami",
         "orig": "漣",
         "src": "/kcsapi/api_start2"
     },
@@ -5226,11 +5518,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the destroyer Asashio. <br>Always ready for a challenge!",
         "orig": "駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Asashio",
         "orig": "朝潮",
         "src": "/kcsapi/api_start2"
     },
@@ -5241,11 +5535,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Destroyer Ooshio reporting in! <br>Big torpedoes on a small body! No worries!",
         "orig": "駆逐艦、大潮です～！<br>小さな体に大きな魚雷！　お任せください。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ooshio",
         "orig": "大潮",
         "src": "/kcsapi/api_start2"
     },
@@ -5256,11 +5552,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Michishio. <br>Why would I get assigned to your lousy fleet?",
         "orig": "満潮よ。<br>私、なんでこんな部隊に配属されたのかしら。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Michishio",
         "orig": "満潮",
         "src": "/kcsapi/api_start2"
     },
@@ -5271,11 +5569,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Oh, I haven't introduced myself yet? <br>I'm Arashio.",
         "orig": "あら。自己紹介まだでしたかー。<br>私、荒潮です。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Arashio",
         "orig": "荒潮",
         "src": "/kcsapi/api_start2"
     },
@@ -5286,11 +5586,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Kuma. <br>Beary nice to meet you.",
         "orig": "クマー。<br>よろしくだクマ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kuma",
         "orig": "球磨",
         "src": "/kcsapi/api_start2"
     },
@@ -5301,11 +5603,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Light cruiser, Tama here. <br>I'm not a cat, meow.",
         "orig": "軽巡、多摩です。<br>猫じゃないにゃ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tama",
         "orig": "多摩",
         "src": "/kcsapi/api_start2"
     },
@@ -5316,11 +5620,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Kiso. I'll bestow upon you the undeniably best victory.\n",
         "orig": "木曾だ、お前に最高の勝利を与えてやる。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kiso",
         "orig": "木曾",
         "src": "/kcsapi/api_start2"
     },
@@ -5331,11 +5637,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Chitose here. I'm the first Japanese seaplane tender. <br>Nice to meet you! ",
         "orig": "千歳です。<br>日本では初めての水上機母艦なのよ。よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chitose",
         "orig": "千歳",
         "src": "/kcsapi/api_start2"
     },
@@ -5346,11 +5654,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Seaplane tender Chiyoda here. <br>My older sister Chitose isn't bothering you, is she? ",
         "orig": "水上機母艦、千代田です。<br>姉の千歳が、いつも迷惑かけてないですか？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chiyoda",
         "orig": "千代田",
         "src": "/kcsapi/api_start2"
     },
@@ -5361,51 +5671,61 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the girl who went on a diet and became an aircraft carrier, Chitose. Somehow I even got faster. <br>Is this is real me, I wonder?",
         "orig": "ダイエットして空母になった千歳です！<br>足も速くなったの。本でも出そうかしら！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chitose Kai",
         "orig": "千歳改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "The girl that became an aircraft carrier, Chiyoda here. <br>Of course, I'll be assigned to my sister Chitose's fleet, yes?",
         "orig": "空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chiyoda Kai",
         "orig": "千代田改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chitose A",
         "orig": "千歳甲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chiyoda A",
         "orig": "千代田甲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chitose Carrier",
         "orig": "千歳航",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chiyoda Carrier",
         "orig": "千代田航",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Shoukaku, the first of the Shoukaku-class carriers. <br>I will try my best with Zuikaku to try and live up to the names of my seniors <br>in the first and second aviation divisions.",
         "orig": "翔鶴型航空母艦１番艦、翔鶴です。<br>一航戦、二航戦の先輩方に、少しでも近づけるように<br>瑞鶴と一緒に頑張ります！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shoukaku",
         "orig": "翔鶴",
         "src": "/kcsapi/api_start2"
     },
@@ -5416,11 +5736,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "2nd of the Shoukaku-class aircraft carriers, the younger sister Zuikaku.<br>The lucky carrier, you say? That's not it, I just fight with all my might.. As long as I have planes, I won't lose!",
         "orig": "翔鶴型航空母艦２番艦、妹の瑞鶴です。<br>幸運の空母ですって？そうじゃないの、一生懸命やってるだけ…よ。艦載機がある限り、負けないわ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Zuikaku",
         "orig": "瑞鶴",
         "src": "/kcsapi/api_start2"
     },
@@ -5431,16 +5753,19 @@
     },
     {
         "ctx": "api_name",
+        "en": "Zuikaku Kai",
         "orig": "瑞鶴改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm here I'm here! Kinu has finally arrived!",
         "orig": "きたきたぁ！　鬼怒、いよいよ到着しましたよ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kinu",
         "orig": "鬼怒",
         "src": "/kcsapi/api_start2"
     },
@@ -5451,11 +5776,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "H-Hello, I'm Abukuma, a light cruiser.",
         "orig": "こ、こんにちは、軽巡、阿武隈です。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abukuma",
         "orig": "阿武隈",
         "src": "/kcsapi/api_start2"
     },
@@ -5466,11 +5793,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Okay~, thanks for waiting! The experimental armament cruiser Yuubari has arrived!",
         "orig": "はーい、お待たせ？<br>兵装実験軽巡、夕張、到着いたしました！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yuubari",
         "orig": "夕張",
         "src": "/kcsapi/api_start2"
     },
@@ -5481,11 +5810,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Zuihou. <br>I'm a light aircraft carrier, but with some experience, I'll be as good as a regular carrier! Just you see!",
         "orig": "瑞鳳です。<br>軽空母ですが、練度があがれば、正規空母並の活躍をおみせできます。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Zuihou",
         "orig": "瑞鳳",
         "src": "/kcsapi/api_start2"
     },
@@ -5496,26 +5827,31 @@
     },
     {
         "ctx": "api_name",
+        "en": "Zuihou Kai",
         "orig": "瑞鳳改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ooi Kai Ni",
         "orig": "大井改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kitakami Kai Ni",
         "orig": "北上改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Greetings, I'm Mikuma. <br>I wonder where Mogami could be hiding?",
         "orig": "ごきげんよう、三隈です。<br>最上さんはどこにいらっしゃるのかしら？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mikuma",
         "orig": "三隈",
         "src": "/kcsapi/api_start2"
     },
@@ -5526,21 +5862,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Admiral, I've attained a new form!",
         "orig": "提督、三隈、新型になりましてよ",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mikuma Kai",
         "orig": "三隈改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello! Kagerou-class destroyer, Maikaze here! <br>I don't like it when it's gloomy outside!",
         "orig": "こんにちは！陽炎型駆逐艦、舞風です。<br>暗い雰囲気は苦手です！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maikaze",
         "orig": "舞風",
         "src": "/kcsapi/api_start2"
     },
@@ -5551,11 +5891,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Dazzling the stage, Kinugasa here! <br>Take good care of Aoba and me!",
         "orig": "はーいっ！衣笠さんの登場よ！<br>青葉ともども、よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kinugasa",
         "orig": "衣笠",
         "src": "/kcsapi/api_start2"
     },
@@ -5566,11 +5908,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Suzuya! What a lively fleet this is! <br>I'll be in your care!",
         "orig": "鈴谷だよ！にぎやかな艦隊だね！<br>よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Suzuya",
         "orig": "鈴谷",
         "src": "/kcsapi/api_start2"
     },
@@ -5581,11 +5925,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "A fine day to you, sir. <br>I am called Kumano, a heavy cruiser.",
         "orig": "ごきげんよう、<br>わたくしが重巡、熊野ですわ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kumano",
         "orig": "熊野",
         "src": "/kcsapi/api_start2"
     },
@@ -5596,11 +5942,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I-168 here. What, is that too hard? Okay, just call me Imuya. Nice to meet you!",
         "orig": "伊１６８よ。何よ、言いにくいの？<br>じゃ、イムヤでいいわ…よろしくねっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-168",
         "orig": "伊168",
         "src": "/kcsapi/api_start2"
     },
@@ -5611,11 +5959,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello! I-58 here! <br>You can call me Goya. I won't be bitter!",
         "orig": "こんにちは！ 伊五十八です。<br>ゴーヤって呼んでもいいよ！苦くなんかないよぉ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-58",
         "orig": "伊58",
         "src": "/kcsapi/api_start2"
     },
@@ -5626,11 +5976,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Guten Tag... Ah, my mistake, sorry. <br>Please, call me Hachi.",
         "orig": "グーテンターク…あ、違った、ごめんなさいね…<br>「はち」と呼んでくださいね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-8",
         "orig": "伊8",
         "src": "/kcsapi/api_start2"
     },
@@ -5641,21 +5993,25 @@
     },
     {
         "ctx": "api_name",
+        "en": "Suzuya Kai",
         "orig": "鈴谷改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kumano Kai",
         "orig": "熊野改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Lead ship of the Yamato-class battleships, Flagship Yamato. <br>Heading forth!\n",
         "orig": "大和型戦艦、一番艦、大和。<br>推して参ります！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yamato",
         "orig": "大和",
         "src": "/kcsapi/api_start2"
     },
@@ -5666,11 +6022,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Akigumo, reporting for duty! <br>Look after me, Admiral!",
         "orig": "秋雲、着任！<br>提督よろしくねっ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akigumo",
         "orig": "秋雲",
         "src": "/kcsapi/api_start2"
     },
@@ -5681,11 +6039,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Lead ship of the Yuugumo-class destroyers, Yuugumo, has arrived. <br>Admiral, it's fine to spoil me, you know.",
         "orig": "夕雲型一番艦、夕雲、着任しました。<br>提督、甘えてくれても、いいんですよ？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yuugumo",
         "orig": "夕雲",
         "src": "/kcsapi/api_start2"
     },
@@ -5696,11 +6056,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Yuugumo-class destroyer, Makigumo here. <br>I'll follow my sister Yuugumo's example and do my best! ",
         "orig": "夕雲型駆逐艦、巻雲といいます。<br>夕雲姉さんを見習って、頑張ります！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Makigumo",
         "orig": "巻雲",
         "src": "/kcsapi/api_start2"
     },
@@ -5711,11 +6073,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm THE Naganami, fourth of the Yuugumo-class destroyers. Off we go! Yeah!",
         "orig": "夕雲型駆逐艦四番艦、長波サマだよ！<br>さーいくぜ、オーッ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Naganami",
         "orig": "長波",
         "src": "/kcsapi/api_start2"
     },
@@ -5726,21 +6090,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Lead ship of the Yamato-class battleships, Flagship Yamato. <br>AA guns have been greatly improved!",
         "orig": "大和型戦艦、一番艦、大和。<br>対空火器を大幅強化致しました！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yamato Kai",
         "orig": "大和改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello! <br>I'm the latest light cruiser, Agano. Teehee.",
         "orig": "こんにちはーっ！<br>最新鋭軽巡の阿賀野でーすっ。ふふ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Agano",
         "orig": "阿賀野",
         "src": "/kcsapi/api_start2"
     },
@@ -5751,11 +6119,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Second of the Agano-class light cruisers, Noshiro, has arrived. <br>Glad to meet you!",
         "orig": "阿賀野型軽巡二番艦、能代。<br>着任しました。よろしくどうぞ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Noshiro",
         "orig": "能代",
         "src": "/kcsapi/api_start2"
     },
@@ -5766,11 +6136,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Light Cruiser Yahagi, reporting for duty. <br>Let's do our best to the end, Admiral!",
         "orig": "軽巡矢矧、着任したわ。<br>提督、最後まで頑張っていきましょう！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yahagi",
         "orig": "矢矧",
         "src": "/kcsapi/api_start2"
     },
@@ -5781,11 +6153,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Pyan♪ The fourth Agano class Light Cruiser, Sakawa! <br>Commander, nice to meet you! ",
         "orig": "ぴゃん♪　阿賀野型軽巡四番艦、酒匂です！<br>司令、よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sakawa",
         "orig": "酒匂",
         "src": "/kcsapi/api_start2"
     },
@@ -5796,21 +6170,25 @@
     },
     {
         "ctx": "api_name",
+        "en": "Isuzu Kai Ni",
         "orig": "五十鈴改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kinugasa Kai Ni",
         "orig": "衣笠改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Hmph, making me wait... <br>Second of the Yamato-class battleships, Musashi, has arrived!",
         "orig": "フッ、随分待たせたようだな……。<br>大和型戦艦二番艦、武蔵。参る！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Musashi",
         "orig": "武蔵",
         "src": "/kcsapi/api_start2"
     },
@@ -5821,21 +6199,25 @@
     },
     {
         "ctx": "api_name",
+        "en": "Yuudachi Kai Ni",
         "orig": "夕立改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shigure Kai Ni",
         "orig": "時雨改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kiso Kai Ni",
         "orig": "木曾改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Hibi-- Verniy. <br>That name refers to the meaning of \"reliance\".",
         "orig": "ヴェールヌイだ。<br>その活躍ぶりから不死鳥の通り名もあるよ。",
         "src": "/kcsapi/api_start2"
     },
@@ -5846,41 +6228,49 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Excuse me. Second of the Yamato-class battleships here, Musashi. <br>What do you say? This color of dress looks good on me, doesn't it?",
         "orig": "大和型二番艦、武蔵、推参する。<br>どうだ…この色、装束も似合うだろう？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Musashi Kai",
         "orig": "武蔵改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kongou Kai Ni",
         "orig": "金剛改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiei Kai Ni",
         "orig": "比叡改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Haruna Kai Ni",
         "orig": "榛名改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kirishima Kai Ni",
         "orig": "霧島改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Yes... I am Taihou. <br>Thank you for your reception, Admiral... <br>I shall bring victory to you and your fleet!",
         "orig": "そう…私が大鳳。<br>出迎え、ありがとうございます。<br>提督…貴方と機動部隊に勝利を！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Taihou",
         "orig": "大鳳",
         "src": "/kcsapi/api_start2"
     },
@@ -5891,11 +6281,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Katori, a Training Cruiser. <br>Don't you worry... I'll be gentle in teaching you various things.",
         "orig": "練習巡洋艦、香取です。<br>心配しないで…。色々と優しく、指導させて頂きますから。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Katori",
         "orig": "香取",
         "src": "/kcsapi/api_start2"
     },
@@ -5906,11 +6298,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good day, Admiral. I'm I-401, the second ship in my special submarine series. <br>Just call me Shioi!",
         "orig": "提督、ごきげんよう。潜特型二番艦伊401です。<br>しおいって呼んでね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-401",
         "orig": "伊401",
         "src": "/kcsapi/api_start2"
     },
@@ -5921,41 +6315,49 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good morning! It's the remodelled Taihou! <br>Reinforced deck armor! Even higher defence! An increase in planes to boost my air wing just for you, admiral!",
         "orig": "おはようございます、改装済み大鳳です。<br>甲板装甲を強化、防御力もさらに向上、提督のために…露天駐機で艦載機数も充実です！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Taihou Kai",
         "orig": "大鳳改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ryuujou Kai Ni",
         "orig": "龍驤改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sendai Kai Ni",
         "orig": "川内改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Jintsuu Kai Ni",
         "orig": "神通改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Naka Kai Ni",
         "orig": "那珂改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I am Akitsumaru, indeed. <br>Thank you for taking me into your fleet.",
         "orig": "自分、あきつ丸であります。<br>艦隊にお世話になります。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akitsumaru",
         "orig": "あきつ丸",
         "src": "/kcsapi/api_start2"
     },
@@ -5966,21 +6368,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Nice to meet you... Maruyu, reporting for duty. <br>Huh? You haven’t heard about me? How could that be...",
         "orig": "初めまして…まるゆ着任しました。<br>え？聞いてないって…そんなあ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maruyu",
         "orig": "まるゆ",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Yayoi, reporting for duty...<br>Pleased to meet you. Please don't be too concerned about me...",
         "orig": "初めまして、弥生、着任…。<br>あ、気を使わないでくれていい…です。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yayoi",
         "orig": "弥生",
         "src": "/kcsapi/api_start2"
     },
@@ -5991,11 +6397,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Yay~! I arrived-pyon! My name is Uzuki！,<br>you can call me U-chan!！",
         "orig": "やったぁ！ でたっぴょん！ 卯月でっす！ <br>うーちゃんって呼ばれてまっす！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Uzuki",
         "orig": "卯月",
         "src": "/kcsapi/api_start2"
     },
@@ -6006,21 +6414,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I tried improving my air presence, indeed. <br>Now I am a carrier... Indeed...",
         "orig": "自分、航空兵力を充実させてみたのであります。<br>これはもう空母…であります…。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akitsumaru Kai",
         "orig": "あきつ丸改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "12th Kagerou-class destroyer, Isokaze. <br>Don't worry, I will protect you.",
         "orig": "陽炎型駆逐艦十二番艦、磯風。<br>大丈夫、私が護ってあげる。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Isokaze",
         "orig": "磯風",
         "src": "/kcsapi/api_start2"
     },
@@ -6031,11 +6443,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "It's me, Urakaze, nice to meet 'ya!",
         "orig": "うち、浦風じゃ、よろしくね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Urakaze",
         "orig": "浦風",
         "src": "/kcsapi/api_start2"
     },
@@ -6046,11 +6460,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Admiral, I'm Tanikaze! <br>I'll be in your care from now on.！",
         "orig": "提督、谷風だよ。<br>これからお世話になるね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tanikaze",
         "orig": "谷風",
         "src": "/kcsapi/api_start2"
     },
@@ -6061,11 +6477,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Destroyer, Hamakaze. <br> Henceforth I shall be attached to your fleet.",
         "orig": "駆逐艦、浜風です。<br>これより貴艦隊所属となります。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hamakaze",
         "orig": "浜風",
         "src": "/kcsapi/api_start2"
     },
@@ -6076,6 +6494,7 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good day.<br>I am Bismarck, the nameship of the Bismarck-class battleships.<br>You should remember it well.",
         "orig": "Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。",
         "src": "/kcsapi/api_start2"
     },
@@ -6091,16 +6510,19 @@
     },
     {
         "ctx": "api_name",
+        "en": "Bismarck Eins",
         "orig": "Bismarck改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Bismarck Zwei",
         "orig": "Bismarck zwei",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Good morning.<brI'm Leberecht Maass. <br> Lebe is fine, yep.",
         "orig": "Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。",
         "src": "/kcsapi/api_start2"
     },
@@ -6116,6 +6538,7 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good day.<br> I am the Destroyer Max Schultz<br>But, Max is fine. Pleased to meet you.",
         "orig": "Guten Tag.<br>私は駆逐艦マックス・シュルツよ。<br>マックス…でもいいけれど。よろしく。",
         "src": "/kcsapi/api_start2"
     },
@@ -6131,6 +6554,7 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good morning!<br> I'm the heavy cruiser Prinz Eugen. Nice to meet you! ！",
         "orig": "Guten Morgen！<br>私は、重巡プリンツ・オイゲン。よろしくね！",
         "src": "/kcsapi/api_start2"
     },
@@ -6146,6 +6570,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Prinz Eugen Kai",
         "orig": "Prinz Eugen改",
         "src": "/kcsapi/api_start2"
     },
@@ -6156,21 +6581,25 @@
     },
     {
         "ctx": "api_name",
+        "en": "Z1 Zwei",
         "orig": "Z1 zwei",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Z3 Zwei",
         "orig": "Z3 zwei",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Is a nice breeze coming?<br>It's time for me, the next generation<br>destroyer prototype, Amatsukaze, to debut.",
         "orig": "いい風きてる？<br>次世代型駆逐艦のプロトタイプ、<br>あたし、天津風の出番ね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Amatsukaze",
         "orig": "天津風",
         "src": "/kcsapi/api_start2"
     },
@@ -6181,11 +6610,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Repair ship Akashi. If you take a little damage, I can fix you up in the base. Just leave it to me!",
         "orig": "工作艦、明石です。<br>少々の損傷だったら、私が泊地でばっちり直してあげますね。<br>お任せください！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akashi",
         "orig": "明石",
         "src": "/kcsapi/api_start2"
     },
@@ -6196,11 +6627,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Admiral, Light Cruiser Ooyodo has joined the battle lines.<br> Please leave the fleet administration & supervision to me.",
         "orig": "提督、軽巡大淀、戦列に加わりました。<br>艦隊指揮、運営はどうぞお任せください。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ooyodo",
         "orig": "大淀",
         "src": "/kcsapi/api_start2"
     },
@@ -6211,11 +6644,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Good day, I'm Submarine Tender Taigei. <br>I may be inexperienced, but I am glad to be of service.",
         "orig": "こんにちわあ。潜水母艦大鯨です。<br>不束者ですが、よろしくお願い致します。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Taigei",
         "orig": "大鯨",
         "src": "/kcsapi/api_start2"
     },
@@ -6226,21 +6661,25 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Carrier Ryuuhou, remodeled from a Submarine Tender. <br>I'll once again try my best as a carrier! ",
         "orig": "潜水母艦改装空母の龍鳳です。<br>航空母艦として、私、頑張ります！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ryuuhou",
         "orig": "龍鳳",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Kagerou-class Destroyer tenth ship.<br>Tokitsukaze ...has arrived!",
         "orig": "陽炎型駆逐艦十番艦。<br>時津風……出るよ。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tokitsukaze",
         "orig": "時津風",
         "src": "/kcsapi/api_start2"
     },
@@ -6251,26 +6690,31 @@
     },
     {
         "ctx": "api_name",
+        "en": "Akashi Kai",
         "orig": "明石改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tone Kai Ni",
         "orig": "利根改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chikuma Kai Ni",
         "orig": "筑摩改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Hatsukaze, nice to meet you. <br>Admiral, how many did you have before me, I wonder?",
         "orig": "初風です、よろしく。<br>提督さんにとって私は何人目の私かしら？",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsukaze",
         "orig": "初風",
         "src": "/kcsapi/api_start2"
     },
@@ -6281,11 +6725,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm happy to see that you're such a great Admiral. <br>I'm I-19. Please call me Iku!",
         "orig": "素敵な提督で嬉しいのね。<br>伊十九なの。そう、イクって呼んでもいいの！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-19",
         "orig": "伊19",
         "src": "/kcsapi/api_start2"
     },
@@ -6296,626 +6742,751 @@
     },
     {
         "ctx": "api_name",
+        "en": "Nachi Kai Ni",
         "orig": "那智改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ashigara Kai Ni",
         "orig": "足柄改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": " Fourth ship of the Myoukou-class heavy cruisers, Haguro.<br>Together with everyone, I will support the front lines!",
         "orig": "妙高型重巡洋艦、羽黒です。<br>皆さんと共に、全力で戦線を支えます！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Haguro Kai Ni",
         "orig": "羽黒改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ayanami Kai Ni",
         "orig": "綾波改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiryuu Kai Ni",
         "orig": "飛龍改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Souryuu Kai Ni",
         "orig": "蒼龍改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abukuma Kai Ni",
         "orig": "阿武隈改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fubuki Kai",
         "orig": "吹雪改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shirayuki Kai",
         "orig": "白雪改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsuyuki Kai",
         "orig": "初雪改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Miyuki Kai",
         "orig": "深雪改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Murakumo Kai",
         "orig": "叢雲改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Isonami Kai",
         "orig": "磯波改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ayanami Kai",
         "orig": "綾波改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shikinami Kai",
         "orig": "敷波改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kongou Kai",
         "orig": "金剛改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiei Kai",
         "orig": "比叡改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Haruna Kai",
         "orig": "榛名改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kirishima Kai",
         "orig": "霧島改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tenryuu Kai",
         "orig": "天龍改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tatsuta Kai",
         "orig": "龍田改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kuma Kai",
         "orig": "球磨改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tama Kai",
         "orig": "多摩改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kiso Kai",
         "orig": "木曾改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nagara Kai",
         "orig": "長良改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Isuzu Kai",
         "orig": "五十鈴改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yura Kai",
         "orig": "由良改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Natori Kai",
         "orig": "名取改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sendai Kai",
         "orig": "川内改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Jintsuu Kai",
         "orig": "神通改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Naka Kai",
         "orig": "那珂改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kagerou Kai",
         "orig": "陽炎改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shiranui Kai",
         "orig": "不知火改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kuroshio Kai",
         "orig": "黒潮改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yukikaze Kai",
         "orig": "雪風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shimakaze Kai",
         "orig": "島風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Oboro Kai",
         "orig": "朧改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akebono Kai",
         "orig": "曙改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sazanami Kai",
         "orig": "漣改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ushio Kai",
         "orig": "潮改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akatsuki Kai",
         "orig": "暁改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hibiki Kai",
         "orig": "響改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ikazuchi Kai",
         "orig": "雷改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Inazuma Kai",
         "orig": "電改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsuharu Kai",
         "orig": "初春改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nenohi Kai",
         "orig": "子日改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Wakaba Kai",
         "orig": "若葉改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsushimo Kai",
         "orig": "初霜改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shiratsuyu Kai",
         "orig": "白露改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shigure Kai",
         "orig": "時雨改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Murasame Kai",
         "orig": "村雨改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yuudachi Kai",
         "orig": "夕立改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Samidare Kai",
         "orig": "五月雨改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Suzukaze Kai",
         "orig": "涼風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Asashio Kai",
         "orig": "朝潮改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ooshio Kai",
         "orig": "大潮改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Michishio Kai",
         "orig": "満潮改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Arashio Kai",
         "orig": "荒潮改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Arare Kai",
         "orig": "霰改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kasumi Kai",
         "orig": "霞改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mutsuki Kai",
         "orig": "睦月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kisaragi Kai",
         "orig": "如月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Satsuki Kai",
         "orig": "皐月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fumizuki Kai",
         "orig": "文月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nagatsuki Kai",
         "orig": "長月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kikuzuki Kai",
         "orig": "菊月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mikazuki Kai",
         "orig": "三日月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mochizuki Kai",
         "orig": "望月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furutaka Kai",
         "orig": "古鷹改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kako Kai",
         "orig": "加古改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Aoba Kai",
         "orig": "青葉改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Myoukou Kai",
         "orig": "妙高改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nachi Kai",
         "orig": "那智改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ashigara Kai",
         "orig": "足柄改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Haguro Kai",
         "orig": "羽黒改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Takao Kai",
         "orig": "高雄改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Atago Kai",
         "orig": "愛宕改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maya Kai",
         "orig": "摩耶改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Choukai Kai",
         "orig": "鳥海改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tone Kai",
         "orig": "利根改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chikuma Kai",
         "orig": "筑摩改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nagato Kai",
         "orig": "長門改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mutsu Kai",
         "orig": "陸奥改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akagi Kai",
         "orig": "赤城改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kaga Kai",
         "orig": "加賀改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Souryuu Kai",
         "orig": "蒼龍改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiryuu Kai",
         "orig": "飛龍改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ryuujou Kai",
         "orig": "龍驤改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shouhou Kai",
         "orig": "祥鳳改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hiyou Kai",
         "orig": "飛鷹改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Junyou Kai",
         "orig": "隼鷹改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Houshou Kai",
         "orig": "鳳翔改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fusou Kai",
         "orig": "扶桑改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yamashiro Kai",
         "orig": "山城改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shoukaku Kai",
         "orig": "翔鶴改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kinu Kai",
         "orig": "鬼怒改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abukuma Kai",
         "orig": "阿武隈改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello! Nice to meet you!",
         "orig": "はじめまして。どうぞ、よろしくお願いいたします！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chitose Kai",
         "orig": "千歳航改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chiyoda Kai",
         "orig": "千代田航改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yuubari Kai",
         "orig": "夕張改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maikaze Kai",
         "orig": "舞風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kinugasa Kai",
         "orig": "衣笠改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chitose Kai Ni",
         "orig": "千歳航改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chiyoda Kai Ni",
         "orig": "千代田航改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsukaze Kai",
         "orig": "初風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akigumo Kai",
         "orig": "秋雲改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yuugumo Kai",
         "orig": "夕雲改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Makigumo Kai",
         "orig": "巻雲改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Naganami Kai",
         "orig": "長波改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Agano Kai",
         "orig": "阿賀野改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Noshiro Kai",
         "orig": "能代改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yahagi Kai",
         "orig": "矢矧改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yayoi Kai",
         "orig": "弥生改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Uzuki Kai",
         "orig": "卯月改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Z1 Eins",
         "orig": "Z1改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Z3 Eins",
         "orig": "Z3改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hamakaze Kai",
         "orig": "浜風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tanikaze Kai",
         "orig": "谷風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Sakawa Kai",
         "orig": "酒匂改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Amatsukaze Kai",
         "orig": "天津風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Urakaze Kai",
         "orig": "浦風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ryuuhou Kai",
         "orig": "龍鳳改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Myoukou Kai Ni",
         "orig": "妙高改二",
         "src": "/kcsapi/api_start2"
     },
@@ -6926,6 +7497,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Isokaze Kai",
         "orig": "磯風改",
         "src": "/kcsapi/api_start2"
     },
@@ -6936,21 +7508,25 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ooyodo Kai",
         "orig": "大淀改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tokitsukaze Kai",
         "orig": "時津風改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "5th Shiratsuyu-class destroyer, Harusame, yes. <br>Leave the transport missions to me... desu.",
         "orig": "白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Harusame Kai",
         "orig": "春雨改",
         "src": "/kcsapi/api_start2"
     },
@@ -6961,11 +7537,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I've... come again, to these seas.<br>Yuugumo-class destroyer, Hayashimo... reporting for duty.",
         "orig": "また…来てしまったのね、この海に。<br>夕雲型駆逐艦、早霜…着任しました。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hayashimo Kai",
         "orig": "早霜改",
         "src": "/kcsapi/api_start2"
     },
@@ -6976,11 +7554,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Hello! Last of the Yuugumo-class, it's Kiyoshimo! <br>I'm a bit late, but I'll be in your care! ",
         "orig": "どうも！夕雲型の最終艦、清霜です。<br>到着遅れました、よろしくお願いです！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kiyoshimo Kai",
         "orig": "清霜改",
         "src": "/kcsapi/api_start2"
     },
@@ -6991,16 +7571,19 @@
     },
     {
         "ctx": "api_name",
+        "en": "Hatsuharu Kai Ni",
         "orig": "初春改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Asashio-class destroyer, Asagumo, reporting in! <br>So you're the Commander... huh. Hmm. Well, it's fine. I'll do it !",
         "orig": "朝潮型駆逐艦、朝雲、着任したわ！<br>貴方が司令…かあ。ふうーん。ま、いいわ。私がやったげる！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Asagumo Kai",
         "orig": "朝雲改",
         "src": "/kcsapi/api_start2"
     },
@@ -7016,6 +7599,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Yamagumo Kai",
         "orig": "山雲改",
         "src": "/kcsapi/api_start2"
     },
@@ -7026,11 +7610,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Kagerou-class Destroyer, Nowaki, reporting in. <br>Well, Commander. Let us proceed.",
         "orig": "陽炎型駆逐艦、野分。参上しました。<br>さあ、司令。いきましょう。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nowaki Kai",
         "orig": "野分改",
         "src": "/kcsapi/api_start2"
     },
@@ -7041,11 +7627,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Akizuki-class anti-air destroyer, first ship, Akizuki.<br>I'm reporting in here. Please leave it to me!",
         "orig": "秋月型防空駆逐艦、一番艦、秋月。<br>ここに推参致しました。お任せください！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akizuki Kai",
         "orig": "秋月改",
         "src": "/kcsapi/api_start2"
     },
@@ -7056,11 +7644,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Amagi, an Unryuu-class Carrier.<br>Thanks for your recruitment, Admiral.<br>Amagi will concentrate!",
         "orig": "雲龍型航空母艦、天城と申します。<br>提督、どうぞよろしくお願い致します。<br>天城、精進致します！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Amagi",
         "orig": "天城",
         "src": "/kcsapi/api_start2"
     },
@@ -7071,11 +7661,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Katsuragi, the third ship of the Unryuu-Class Carriers! Eh?<br>'A floating anti-air gun platform'?<br> I-It's not like that...! What are you saying!",
         "orig": "雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Katsuragi",
         "orig": "葛城",
         "src": "/kcsapi/api_start2"
     },
@@ -7086,11 +7678,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "Submarine U-511 of the German Navy, <br>please call me Yuu.<br>I've come a long way, so I'll be in your care...",
         "orig": "ドイツ海軍所属、潜水艦U-511です。<br>ユーとお呼びください。<br>少し遠出してきました。よろしくお願い致します……。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "U-511 Kai",
         "orig": "U-511改",
         "src": "/kcsapi/api_start2"
     },
@@ -7101,16 +7695,19 @@
     },
     {
         "ctx": "api_name",
+        "en": "Katori Kai",
         "orig": "香取改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Yo! I'm Asashimo, 16th Destroyer of the Yuugumo Class. Please remember.<br>Don't forget about me... ok?",
         "orig": "よお！　夕雲型駆逐艦、十六番艦の朝霜、いつでも出撃できんぜ。<br>まだまだ、暴れよう…な、司令！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Asashimo Kai",
         "orig": "朝霜改",
         "src": "/kcsapi/api_start2"
     },
@@ -7121,11 +7718,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the 6th of the Yuugumo-class destroyers, Takanami.<br>E-ehm, I will do my best! Really, probably!",
         "orig": "夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Takanami Kai",
         "orig": "高波改",
         "src": "/kcsapi/api_start2"
     },
@@ -7141,6 +7740,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Teruzuki Kai",
         "orig": "照月改",
         "src": "/kcsapi/api_start2"
     },
@@ -7156,6 +7756,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Libeccio Kai",
         "orig": "Libeccio改",
         "src": "/kcsapi/api_start2"
     },
@@ -7171,6 +7772,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Mizuho Kai",
         "orig": "瑞穂改",
         "src": "/kcsapi/api_start2"
     },
@@ -7186,6 +7788,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Kazagumo Kai",
         "orig": "風雲改",
         "src": "/kcsapi/api_start2"
     },
@@ -7201,6 +7804,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Umikaze Kai",
         "orig": "海風改",
         "src": "/kcsapi/api_start2"
     },
@@ -7216,6 +7820,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Kawakaze Kai",
         "orig": "江風改",
         "src": "/kcsapi/api_start2"
     },
@@ -7231,6 +7836,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Hayasui Kai",
         "orig": "速吸改",
         "src": "/kcsapi/api_start2"
     },
@@ -7241,51 +7847,61 @@
     },
     {
         "ctx": "api_name",
+        "en": "I-168 Kai",
         "orig": "伊168改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-58 Kai",
         "orig": "伊58改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-8 Kai",
         "orig": "伊8改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-19 Kai",
         "orig": "伊19改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Sir, please let Maruyu keep working hard.",
         "orig": "隊長、もっとまるゆに頑張らせてくださいね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maruyu Kai",
         "orig": "まるゆ改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Good day, Admiral. I'm the second ship of the special submarine class, I-401, new and improved version.",
         "orig": "提督、ごきげんよう。<br>潜特型二番艦伊401、改良型です！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-401 Kai",
         "orig": "伊401改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Unryuu class aircraft carrier, Unryuu, has arrived.<br>Admiral, it's nice to meet you.",
         "orig": "雲龍型航空母艦、雲龍、推参しました。<br>提督、よろしくお願いしますね。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Unryuu",
         "orig": "雲龍",
         "src": "/kcsapi/api_start2"
     },
@@ -7296,91 +7912,109 @@
     },
     {
         "ctx": "api_name",
+        "en": "Harusame",
         "orig": "春雨",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Unryuu class aircraft carrier, Unryuu, has arrived.<br>Admiral, let me handle the New Taskforce. ！",
         "orig": "雲龍型航空母艦、雲龍、参ります。<br>提督、新生機動部隊はお任せください！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Unryuu Kai",
         "orig": "雲龍改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ushio Kai Ni",
         "orig": "潮改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Junyou Kai Ni",
         "orig": "隼鷹改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hayashimo",
         "orig": "早霜",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kiyoshimo",
         "orig": "清霜",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fusou Kai Ni",
         "orig": "扶桑改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yamashiro Kai Ni",
         "orig": "山城改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Asagumo",
         "orig": "朝雲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Good morning~~<br>asashio-class destroyer Sixth ship Yamagumo～<br> Please treat me well! ～",
         "orig": "おはようございます～。<br>朝潮型駆逐艦六番艦、山雲です～。<br>よろしくお願い致します～。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yamagumo",
         "orig": "山雲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nowaki",
         "orig": "野分",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furutaka Kai Ni",
         "orig": "古鷹改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kako Kai Ni",
         "orig": "加古改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hatsushimo Kai Ni",
         "orig": "初霜改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Murakumo Kai Ni",
         "orig": "叢雲改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akizuki",
         "orig": "秋月",
         "src": "/kcsapi/api_start2"
     },
@@ -7391,51 +8025,61 @@
     },
     {
         "ctx": "api_name",
+        "en": "Teruzuki",
         "orig": "照月",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Takanami",
         "orig": "高波",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Yo! I'm Asashimo, 16th Destroyer of the Yuugumo Class. <br>Please remember. Don't forget about me... ok? ",
         "orig": "よお！　あたいは、夕雲型駆逐艦、十六番艦の朝霜さ。<br>覚えといてよ。忘れんなよ……なあ！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Asashimo",
         "orig": "朝霜",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fubuki Kai Ni",
         "orig": "吹雪改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Choukai Kai Ni",
         "orig": "鳥海改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Maya Kai Ni",
         "orig": "摩耶改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Amagi, an Unryuu-class Carrier!<br>Admiral, this time Amagi can play an active role!",
         "orig": "雲龍型航空母艦、天城です。<br>提督、天城、今なら十分活躍できます！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Amagi Kai",
         "orig": "天城改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Katsuragi Kai",
         "orig": "葛城改",
         "src": "/kcsapi/api_start2"
     },
@@ -7446,31 +8090,37 @@
     },
     {
         "ctx": "api_name",
+        "en": "Mutsuki Kai Ni",
         "orig": "睦月改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kisaragi Kai Ni",
         "orig": "如月改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "Submarine RO500, formerly U-boat U-511.<br>I'm Ro, formerly called Yuu!<br>Admiral? I will be in your care！",
         "orig": "UボートU-511改め、呂号第500潜水艦です。<br>ユーちゃん改め、ローちゃんです。<br>テイトク、よろしくお願いしまーす！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ro-500",
         "orig": "呂500",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akatsuki Kai Ni",
         "orig": "暁改二",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_getmes",
+        "en": "The second ship of the Vittorio Veneto-class battleships, Littorio. <br> I have confidence in my speed and firepower. Nice to meet ya ~",
         "orig": "ヴィットリオ・ヴェネト級戦艦２番艦、リットリオです。<br>火力と速度には自信があるの。よろしくお願いしますね。",
         "src": "/kcsapi/api_start2"
     },
@@ -7486,6 +8136,7 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm the 4th battleship of the Vittorio Veneto-class, Roma. Nice to meet you.<br>What? Please don't stare at me, okay? ",
         "orig": "ヴィットリオ・ヴェネト級戦艦４番艦、ローマです、よろしく。<br>何？あまりジロジロ見ないでくださいね。",
         "src": "/kcsapi/api_start2"
     },
@@ -7506,11 +8157,13 @@
     },
     {
         "ctx": "api_getmes",
+        "en": "I'm Seaplane Tender Akitsushima!<br> Make sure to remember me along with this Taitei-chan, alright! ",
         "orig": "水上機母艦、秋津洲よ！<br>この大艇ちゃんと一緒に覚えてよね！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akitsushima",
         "orig": "秋津洲",
         "src": "/kcsapi/api_start2"
     },
@@ -7531,31 +8184,37 @@
     },
     {
         "ctx": "api_name",
+        "en": "Roma Kai",
         "orig": "Roma改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akitsushima Kai",
         "orig": "秋津洲改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Mizuho",
         "orig": "瑞穂",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kazagumo",
         "orig": "風雲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Umikaze",
         "orig": "海風",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kawakaze",
         "orig": "江風",
         "src": "/kcsapi/api_start2"
     },
@@ -7566,71 +8225,85 @@
     },
     {
         "ctx": "api_name",
+        "en": "Hayasui",
         "orig": "速吸",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "I-Class DD",
         "orig": "駆逐イ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ro-Class DD",
         "orig": "駆逐ロ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ha-Class DD",
         "orig": "駆逐ハ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ni-Class DD",
         "orig": "駆逐ニ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ho-Class CL",
         "orig": "軽巡ホ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "He-Class CL",
         "orig": "軽巡ヘ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "To-Class CL",
         "orig": "軽巡ト級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chi-Class CLT",
         "orig": "雷巡チ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ri-Class CA",
         "orig": "重巡リ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Nu-Class CVL",
         "orig": "軽母ヌ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ru-Class BB",
         "orig": "戦艦ル級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Wo-Class CV",
         "orig": "空母ヲ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Wa-Class AP",
         "orig": "輸送ワ級",
         "src": "/kcsapi/api_start2"
     },
@@ -7646,86 +8319,103 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ka-Class SS",
         "orig": "潜水カ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Yo-Class SS",
         "orig": "潜水ヨ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Floating Fortress",
         "orig": "浮遊要塞",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Anchorage Demon",
         "orig": "泊地棲鬼",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Anchorage Princess",
         "orig": "泊地棲姫",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ta-Class BB",
         "orig": "戦艦タ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Armored Carrier Demon",
         "orig": "装甲空母鬼",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Armored Carrier Princess",
         "orig": "装甲空母姫",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Southern Demon",
         "orig": "南方棲鬼",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Southern War Demon",
         "orig": "南方棲戦鬼",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Southern Battleship Princess",
         "orig": "南方棲戦姫",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Escort Fortress",
         "orig": "護衛要塞",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Airfield Princess",
         "orig": "飛行場姫",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Battleship Princess",
         "orig": "戦艦棲姫",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Re-Class BB",
         "orig": "戦艦レ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Wo-Class CV Kai",
         "orig": "空母ヲ級改",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ri-Class CA Kai",
         "orig": "重巡リ級改",
         "src": "/kcsapi/api_start2"
     },
@@ -7751,21 +8441,25 @@
     },
     {
         "ctx": "api_name",
+        "en": "I-Class DD Late Model",
         "orig": "駆逐イ級後期型",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ro-Class DD Late Model",
         "orig": "駆逐ロ級後期型",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ha-Class DD Late Model",
         "orig": "駆逐ハ級後期型",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ni-Class DD Late Model",
         "orig": "駆逐ニ級後期型",
         "src": "/kcsapi/api_start2"
     },
@@ -7791,31 +8485,37 @@
     },
     {
         "ctx": "api_name",
+        "en": "Tsu-Class CL",
         "orig": "軽巡ツ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ne-Class CA",
         "orig": "重巡ネ級",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Destroyer Princess",
         "orig": "駆逐棲姫",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Aircraft Carrier Water Demon",
         "orig": "空母水鬼",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Light Cruiser Demon",
         "orig": "軽巡棲鬼",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Battleship Water Demon",
         "orig": "戦艦水鬼",
         "src": "/kcsapi/api_start2"
     },
@@ -10681,6 +11381,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12cm Single Cannon ",
         "orig": "12cm単装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10691,6 +11392,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Twin Cannon",
         "orig": "12.7cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10701,6 +11403,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "10cm Twin HA Gun",
         "orig": "10cm連装高角砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10711,6 +11414,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "14cm Single Cannon",
         "orig": "14cm単装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10721,6 +11425,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15.5cm Trip Cannon",
         "orig": "15.5cm三連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10731,6 +11436,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "20.3cm Twin Cannon",
         "orig": "20.3cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10741,6 +11447,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "35.6cm Twin Cannon",
         "orig": "35.6cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10751,6 +11458,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "41cm Twin Cannon",
         "orig": "41cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10761,6 +11469,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "46cm Triple Cannon",
         "orig": "46cm三連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10771,6 +11480,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Twin HA Gun",
         "orig": "12.7cm連装高角砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10781,6 +11491,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15.2cm Sgl Cannon",
         "orig": "15.2cm単装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10791,6 +11502,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15.5cm Trip Cannon",
         "orig": "15.5cm三連装副砲",
         "src": "/kcsapi/api_start2"
     },
@@ -10801,6 +11513,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "61cm Triple Torpedo",
         "orig": "61cm三連装魚雷",
         "src": "/kcsapi/api_start2"
     },
@@ -10811,6 +11524,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "61cm Quad Torpedo ",
         "orig": "61cm四連装魚雷",
         "src": "/kcsapi/api_start2"
     },
@@ -10821,6 +11535,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "61cm Quad(O2)Torp",
         "orig": "61cm四連装(酸素)魚雷",
         "src": "/kcsapi/api_start2"
     },
@@ -10831,6 +11546,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 97 Torp Bomber",
         "orig": "九七式艦攻",
         "src": "/kcsapi/api_start2"
     },
@@ -10841,6 +11557,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Tenzan",
         "orig": "天山",
         "src": "/kcsapi/api_start2"
     },
@@ -10851,6 +11568,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ryuusei",
         "orig": "流星",
         "src": "/kcsapi/api_start2"
     },
@@ -10861,6 +11579,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 96 Fighter",
         "orig": "九六式艦戦",
         "src": "/kcsapi/api_start2"
     },
@@ -10871,6 +11590,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 21 Zero Fighter",
         "orig": "零式艦戦21型",
         "src": "/kcsapi/api_start2"
     },
@@ -10881,6 +11601,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 52 Zero Fighter",
         "orig": "零式艦戦52型",
         "src": "/kcsapi/api_start2"
     },
@@ -10891,6 +11612,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Reppuu",
         "orig": "烈風",
         "src": "/kcsapi/api_start2"
     },
@@ -10901,6 +11623,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 99 Dive Bomber",
         "orig": "九九式艦爆",
         "src": "/kcsapi/api_start2"
     },
@@ -10911,6 +11634,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Suisei",
         "orig": "彗星",
         "src": "/kcsapi/api_start2"
     },
@@ -10921,6 +11645,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 0 Rcn Seaplane",
         "orig": "零式水上偵察機",
         "src": "/kcsapi/api_start2"
     },
@@ -10931,6 +11656,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Zuiun",
         "orig": "瑞雲",
         "src": "/kcsapi/api_start2"
     },
@@ -10941,6 +11667,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 13 Air Rdr",
         "orig": "13号対空電探",
         "src": "/kcsapi/api_start2"
     },
@@ -10951,6 +11678,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 22 Surface Rdr",
         "orig": "22号対水上電探",
         "src": "/kcsapi/api_start2"
     },
@@ -10961,6 +11689,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 33 Surface Rdr",
         "orig": "33号対水上電探",
         "src": "/kcsapi/api_start2"
     },
@@ -10971,6 +11700,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 21 Air Rdr",
         "orig": "21号対空電探",
         "src": "/kcsapi/api_start2"
     },
@@ -10981,6 +11711,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 32 Surface Rdr",
         "orig": "32号対水上電探",
         "src": "/kcsapi/api_start2"
     },
@@ -10991,6 +11722,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 14 Air Rdr",
         "orig": "14号対空電探",
         "src": "/kcsapi/api_start2"
     },
@@ -11001,6 +11733,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Impr Steam Turbine",
         "orig": "改良型艦本式タービン",
         "src": "/kcsapi/api_start2"
     },
@@ -11011,6 +11744,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Enhcd Steam Engine",
         "orig": "強化型艦本式缶",
         "src": "/kcsapi/api_start2"
     },
@@ -11021,6 +11755,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 3 Shell",
         "orig": "三式弾",
         "src": "/kcsapi/api_start2"
     },
@@ -11031,6 +11766,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 91 AP Shell",
         "orig": "九一式徹甲弾",
         "src": "/kcsapi/api_start2"
     },
@@ -11041,6 +11777,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "7.7mm Machine Gun",
         "orig": "7.7mm機銃",
         "src": "/kcsapi/api_start2"
     },
@@ -11051,6 +11788,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7mm Machine Gun",
         "orig": "12.7mm単装機銃",
         "src": "/kcsapi/api_start2"
     },
@@ -11061,6 +11799,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "25mm Twin Autocannon",
         "orig": "25mm連装機銃",
         "src": "/kcsapi/api_start2"
     },
@@ -11071,6 +11810,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "25mm Triple Autocannon",
         "orig": "25mm三連装機銃",
         "src": "/kcsapi/api_start2"
     },
@@ -11081,6 +11821,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type A Minisub",
         "orig": "甲標的",
         "src": "/kcsapi/api_start2"
     },
@@ -11101,6 +11842,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 94 Depth Charge",
         "orig": "九四式爆雷投射機",
         "src": "/kcsapi/api_start2"
     },
@@ -11111,6 +11853,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 3 Depth Charge",
         "orig": "三式爆雷投射機",
         "src": "/kcsapi/api_start2"
     },
@@ -11121,6 +11864,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 93 Sonar",
         "orig": "九三式水中聴音機",
         "src": "/kcsapi/api_start2"
     },
@@ -11131,6 +11875,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 3 Sonar",
         "orig": "三式水中探信儀",
         "src": "/kcsapi/api_start2"
     },
@@ -11141,6 +11886,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Sgl HA Gun",
         "orig": "12.7cm単装高角砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11151,6 +11897,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "25mm Single Autocannon",
         "orig": "25mm単装機銃",
         "src": "/kcsapi/api_start2"
     },
@@ -11161,6 +11908,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "20.3cm#3 Twin Cann.",
         "orig": "20.3cm(3号)連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11171,6 +11919,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12cm Rckt Launcher",
         "orig": "12cm30連装噴進砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11181,6 +11930,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ryuusei Kai",
         "orig": "流星改",
         "src": "/kcsapi/api_start2"
     },
@@ -11191,6 +11941,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Reppuu Kai",
         "orig": "烈風改",
         "src": "/kcsapi/api_start2"
     },
@@ -11201,6 +11952,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Saiun",
         "orig": "彩雲",
         "src": "/kcsapi/api_start2"
     },
@@ -11211,6 +11963,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Shiden Kai Ni",
         "orig": "紫電改二",
         "src": "/kcsapi/api_start2"
     },
@@ -11221,6 +11974,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Magnificent Lghtng Kai",
         "orig": "震電改",
         "src": "/kcsapi/api_start2"
     },
@@ -11231,6 +11985,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Suisei 12A",
         "orig": "彗星一二型甲",
         "src": "/kcsapi/api_start2"
     },
@@ -11241,6 +11996,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "61cm Quint(O2)Torp",
         "orig": "61cm五連装(酸素)魚雷",
         "src": "/kcsapi/api_start2"
     },
@@ -11251,6 +12007,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 0 Observ Seaplane",
         "orig": "零式水上観測機",
         "src": "/kcsapi/api_start2"
     },
@@ -11261,6 +12018,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 62 Zero F/B",
         "orig": "零式艦戦62型(爆戦)",
         "src": "/kcsapi/api_start2"
     },
@@ -11271,6 +12029,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 2 Recon Plane",
         "orig": "二式艦上偵察機",
         "src": "/kcsapi/api_start2"
     },
@@ -11281,6 +12040,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Prtyp Mountain Haze",
         "orig": "試製晴嵐",
         "src": "/kcsapi/api_start2"
     },
@@ -11291,6 +12051,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Tw Cann.B-3",
         "orig": "12.7cm連装砲B型改二",
         "src": "/kcsapi/api_start2"
     },
@@ -11301,6 +12062,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ju 87C Kai",
         "orig": "Ju87C改",
         "src": "/kcsapi/api_start2"
     },
@@ -11311,6 +12073,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15.2cm Twin Cannon",
         "orig": "15.2cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11321,6 +12084,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "8cm HA Gun",
         "orig": "8cm高角砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11331,6 +12095,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "53cm Hull(O2)Torp",
         "orig": "53cm艦首(酸素)魚雷",
         "src": "/kcsapi/api_start2"
     },
@@ -11341,6 +12106,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Daihatsu LC",
         "orig": "大発動艇",
         "src": "/kcsapi/api_start2"
     },
@@ -11351,6 +12117,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type K Autogyro",
         "orig": "カ号観測機",
         "src": "/kcsapi/api_start2"
     },
@@ -11361,6 +12128,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 3 ASW Plane",
         "orig": "三式指揮連絡機(対潜)",
         "src": "/kcsapi/api_start2"
     },
@@ -11371,6 +12139,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "10cm Twn HA Gun (Impr)",
         "orig": "10cm連装高角砲(砲架)",
         "src": "/kcsapi/api_start2"
     },
@@ -11381,6 +12150,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Anti-Torp Bulge(Med)",
         "orig": "増設バルジ(中型艦)",
         "src": "/kcsapi/api_start2"
     },
@@ -11391,6 +12161,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Anti-torpedo Bulge (Large)",
         "orig": "増設バルジ(大型艦)",
         "src": "/kcsapi/api_start2"
     },
@@ -11401,6 +12172,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Searchlight",
         "orig": "探照灯",
         "src": "/kcsapi/api_start2"
     },
@@ -11411,6 +12183,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Drum Canister",
         "orig": "ドラム缶(輸送用)",
         "src": "/kcsapi/api_start2"
     },
@@ -11421,6 +12194,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "38cm Twin Cannon",
         "orig": "38cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11431,6 +12205,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15cm Twin Cannon",
         "orig": "15cm連装副砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11441,6 +12216,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Naval Gun",
         "orig": "12.7cm単装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11451,6 +12227,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Zuiun (634 Air Group)",
         "orig": "瑞雲(六三四空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11461,6 +12238,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Zuiun Model 12",
         "orig": "瑞雲12型",
         "src": "/kcsapi/api_start2"
     },
@@ -11471,6 +12249,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Zuiun Model 12 (634 Air Group)",
         "orig": "瑞雲12型(六三四空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11481,6 +12260,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 97 Torpedo Bomber (931 Air Group)",
         "orig": "九七式艦攻(九三一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11491,6 +12271,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Tenzan (931 Air Group)",
         "orig": "天山(九三一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11501,6 +12282,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "2cm Flakvierling 38",
         "orig": "2cm 四連装FlaK 38",
         "src": "/kcsapi/api_start2"
     },
@@ -11521,6 +12303,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ship Repair Facility",
         "orig": "艦艇修理施設",
         "src": "/kcsapi/api_start2"
     },
@@ -11531,6 +12314,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "New High Pressure-Temperature Steam Boiler",
         "orig": "新型高温高圧缶",
         "src": "/kcsapi/api_start2"
     },
@@ -11541,6 +12325,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 22 Surf Rdr Mk.5",
         "orig": "22号対水上電探改四",
         "src": "/kcsapi/api_start2"
     },
@@ -11551,6 +12336,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 21 Air Rdr Kai",
         "orig": "21号対空電探改",
         "src": "/kcsapi/api_start2"
     },
@@ -11561,6 +12347,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "20.3cm#2 Twin Cann.",
         "orig": "20.3cm(2号)連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11571,6 +12358,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Twin HA (Late Model)",
         "orig": "12.7cm連装高角砲(後期型)",
         "src": "/kcsapi/api_start2"
     },
@@ -11581,6 +12369,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "HI-type 40mm Twin MG",
         "orig": "毘式40mm連装機銃",
         "src": "/kcsapi/api_start2"
     },
@@ -11591,6 +12380,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 97 Torpedo Bomber (Tomonaga Squadron)",
         "orig": "九七式艦攻(友永隊)",
         "src": "/kcsapi/api_start2"
     },
@@ -11601,6 +12391,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Tenzan M12(Tomonaga Squadron)",
         "orig": "天山一二型(友永隊)",
         "src": "/kcsapi/api_start2"
     },
@@ -11611,6 +12402,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "53cm Bow Torp. Mount",
         "orig": "潜水艦53cm艦首魚雷(8門)",
         "src": "/kcsapi/api_start2"
     },
@@ -11621,6 +12413,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 21 Zero (Skilled)",
         "orig": "零式艦戦21型(熟練)",
         "src": "/kcsapi/api_start2"
     },
@@ -11631,6 +12424,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 99 Div Bmb (Skilled)",
         "orig": "九九式艦爆(熟練)",
         "src": "/kcsapi/api_start2"
     },
@@ -11641,6 +12435,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 97 Torp Bmb (Skilled)",
         "orig": "九七式艦攻(熟練)",
         "src": "/kcsapi/api_start2"
     },
@@ -11651,6 +12446,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 99 Div Bmb (Egusa Squadron)",
         "orig": "九九式艦爆(江草隊)",
         "src": "/kcsapi/api_start2"
     },
@@ -11661,6 +12457,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Suisei (Egusa Squadron)",
         "orig": "彗星(江草隊)",
         "src": "/kcsapi/api_start2"
     },
@@ -11671,6 +12468,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Star Shell",
         "orig": "照明弾",
         "src": "/kcsapi/api_start2"
     },
@@ -11681,6 +12479,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Night Scout",
         "orig": "九八式水上偵察機(夜偵)",
         "src": "/kcsapi/api_start2"
     },
@@ -11691,6 +12490,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Proto 35.6cm Triple Cannon",
         "orig": "試製35.6cm三連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11701,6 +12501,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "35.6cm Twn (Dazzle Camouflage)",
         "orig": "35.6cm連装砲(ダズル迷彩)",
         "src": "/kcsapi/api_start2"
     },
@@ -11711,6 +12512,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Proto 41cm Triple Cannon",
         "orig": "試製41cm三連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11721,6 +12523,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 13 Air Rdr Kai",
         "orig": "13号対空電探改",
         "src": "/kcsapi/api_start2"
     },
@@ -11731,6 +12534,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Fleet Command Facility",
         "orig": "艦隊司令部施設",
         "src": "/kcsapi/api_start2"
     },
@@ -11741,6 +12545,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "SCAMP",
         "orig": "熟練艦載機整備員",
         "src": "/kcsapi/api_start2"
     },
@@ -11751,6 +12556,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 52C Zero (601 Air Group)",
         "orig": "零戦52型丙(六〇一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11761,6 +12567,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Reppuu (601 Air Group)",
         "orig": "烈風(六〇一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11771,6 +12578,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Suisei (601 Air Group)",
         "orig": "彗星(六〇一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11781,6 +12589,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Tenzan (601 Air Group)",
         "orig": "天山(六〇一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11791,6 +12600,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ryuusei (601 Air Group)",
         "orig": "流星(六〇一空)",
         "src": "/kcsapi/api_start2"
     },
@@ -11801,6 +12611,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "38cm Twin Kai",
         "orig": "38cm連装砲改",
         "src": "/kcsapi/api_start2"
     },
@@ -11811,6 +12622,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Ar196 Kai",
         "orig": "Ar196改",
         "src": "/kcsapi/api_start2"
     },
@@ -11821,6 +12633,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 1 AP Shell",
         "orig": "一式徹甲弾",
         "src": "/kcsapi/api_start2"
     },
@@ -11831,6 +12644,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Prototype 46cm Twin Gun Mount",
         "orig": "試製46cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11841,6 +12655,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Shiun",
         "orig": "紫雲",
         "src": "/kcsapi/api_start2"
     },
@@ -11851,6 +12666,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "14cm Twin Cannon",
         "orig": "14cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11861,6 +12677,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 91 AAFD",
         "orig": "91式高射装置",
         "src": "/kcsapi/api_start2"
     },
@@ -11871,6 +12688,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Typ 94 AAFD",
         "orig": "94式高射装置",
         "src": "/kcsapi/api_start2"
     },
@@ -11881,6 +12699,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "10cm Twn+AAFD",
         "orig": "10cm連装高角砲+高射装置",
         "src": "/kcsapi/api_start2"
     },
@@ -11891,6 +12710,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "SKC34 20.3cm Twn Cann.",
         "orig": "SKC34 20.3cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11901,6 +12721,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "FuMO25 Rdr",
         "orig": "FuMO25 レーダー",
         "src": "/kcsapi/api_start2"
     },
@@ -11911,6 +12732,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "61cm Triple(O2)Torp",
         "orig": "61cm三連装(酸素)魚雷",
         "src": "/kcsapi/api_start2"
     },
@@ -11931,6 +12753,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Proto FaT Typ95(O2) Torp Kai",
         "orig": "試製FaT仕様九五式酸素魚雷改",
         "src": "/kcsapi/api_start2"
     },
@@ -11941,6 +12764,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Proto 51cm Twn Cann.",
         "orig": "試製51cm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -11951,6 +12775,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Skilled Lookouts",
         "orig": "熟練見張員",
         "src": "/kcsapi/api_start2"
     },
@@ -11961,6 +12786,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "12.7cm Twn+AAFD",
         "orig": "12.7cm高角砲+高射装置",
         "src": "/kcsapi/api_start2"
     },
@@ -11971,6 +12797,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "25mm (Concentrated) Triple Autocannon",
         "orig": "25mm三連装機銃 集中配備",
         "src": "/kcsapi/api_start2"
     },
@@ -11981,6 +12808,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 0 Passive SONAR",
         "orig": "零式水中聴音機",
         "src": "/kcsapi/api_start2"
     },
@@ -11991,6 +12819,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "381mm/50 Triple Gun Mount",
         "orig": "381mm/50 三連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -12001,6 +12830,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "OTO 152mm Trip Rapid Fire Gun Mount",
         "orig": "OTO 152mm三連装速射砲",
         "src": "/kcsapi/api_start2"
     },
@@ -12011,6 +12841,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "90mm Sgl. HA Gun Mount",
         "orig": "90mm単装高角砲",
         "src": "/kcsapi/api_start2"
     },
@@ -12021,6 +12852,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Pugliese Underwater Protection Bulkhead",
         "orig": "プリエーゼ式水中防御隔壁",
         "src": "/kcsapi/api_start2"
     },
@@ -12031,6 +12863,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "381mm/50 Kai Triple Gun Mount",
         "orig": "381mm/50 三連装砲改",
         "src": "/kcsapi/api_start2"
     },
@@ -12041,6 +12874,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 2 LS Flying Boat",
         "orig": "二式大艇",
         "src": "/kcsapi/api_start2"
     },
@@ -12051,6 +12885,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15.2cm Twin Gun Mount Kai",
         "orig": "15.2cm連装砲改",
         "src": "/kcsapi/api_start2"
     },
@@ -12061,6 +12896,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 96 150cm Searchlight",
         "orig": "96式150cm探照灯",
         "src": "/kcsapi/api_start2"
     },
@@ -12071,6 +12907,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 32 Surface Radar Kai",
         "orig": "32号対水上電探改",
         "src": "/kcsapi/api_start2"
     },
@@ -12081,6 +12918,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "15m Duplex Rangefinder + Type 21 Air Radar Kai Ni",
         "orig": "15m二重測距儀+21号電探改二",
         "src": "/kcsapi/api_start2"
     },
@@ -12091,6 +12929,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Type 97 Torpedo Bomber (Murata Squadron)",
         "orig": "九七式艦攻(村田隊)",
         "src": "/kcsapi/api_start2"
     },
@@ -12101,6 +12940,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Tenzan M12(Murata Squadron)",
         "orig": "天山一二型(村田隊)",
         "src": "/kcsapi/api_start2"
     },
@@ -12121,6 +12961,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "120mm Twin Gun Mount",
         "orig": "120mm連装砲",
         "src": "/kcsapi/api_start2"
     },
@@ -12616,131 +13457,157 @@
     },
     {
         "ctx": "api_name",
+        "en": "PCE",
         "orig": "海防艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " DD",
         "orig": "駆逐艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " CL ",
         "orig": "軽巡洋艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "CLT",
         "orig": "重雷装巡洋艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " CA ",
         "orig": "重巡洋艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "CAV",
         "orig": "航空巡洋艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "CVL",
         "orig": "軽空母",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " BB ",
         "orig": "戦艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "BBV",
         "orig": "航空戦艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " CV ",
         "orig": "正規空母",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " BB ",
         "orig": "超弩級戦艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " SS  ",
         "orig": "潜水艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "SSV",
         "orig": "潜水空母",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "AO",
         "orig": "補給艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " AV ",
         "orig": "水上機母艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "CVE",
         "orig": "揚陸艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "CVB",
         "orig": "装甲空母",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " AR ",
         "orig": "工作艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " AS ",
         "orig": "潜水母艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": " CT ",
         "orig": "練習巡洋艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Shortens repair time.",
         "orig": "入渠時間を短縮できる。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fast Repair Material",
         "orig": "高速修復材",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Shortens construction time.",
         "orig": "建造時間を短縮できる。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fast Construction Material",
         "orig": "高速建造材",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Materials for construction and development.",
         "orig": "建造・開発を行うのに使用する資材。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Dev. Material",
         "orig": "開発資材",
         "src": "/kcsapi/api_start2"
     },
@@ -12751,71 +13618,85 @@
     },
     {
         "ctx": "api_name",
+        "en": "Imprv. Material",
         "orig": "改修資材",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Contains a small amount of furniture coins.",
         "orig": "開けると、中から少量の家具コインが出現する。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furniture Box (Small)",
         "orig": "家具箱（小）",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Contains a medium amount of furniture coins.",
         "orig": "開けると、中から中量の家具コインが出現する。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furniture Box (Medium)",
         "orig": "家具箱（中）",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Contains a large amount of furniture coins.",
         "orig": "開けると、中から大量の家具コインが出現する。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furniture Box (Large)",
         "orig": "家具箱（大）",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fuel",
         "orig": "燃料",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ammo",
         "orig": "弾薬",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Steel",
         "orig": "鋼材",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Bauxite",
         "orig": "ボーキサイト",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Furniture Coin",
         "orig": "家具コイン",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Opens a single construction or repair dock.",
         "orig": "入渠ドックまたは工廠ドックを１個開放できるキー。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Dock Key",
         "orig": "ドック開放キー",
         "src": "/kcsapi/api_start2"
     },
@@ -12826,11 +13707,13 @@
     },
     {
         "ctx": "api_description",
+        "en": "Allows a ship to avoid being sank once.",
         "orig": "応急修理要員がパワーアップ！撃沈回避時に出撃能力が全回復。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "Allows purchase of specialty furniture.",
         "orig": "特注家具を製作する職人さん。家具屋さんで使用する。",
         "src": "/kcsapi/api_start2"
     },
@@ -12866,6 +13749,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Medal",
         "orig": "勲章",
         "src": "/kcsapi/api_start2"
     },
@@ -12876,6 +13760,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Blueprint",
         "orig": "改装設計図",
         "src": "/kcsapi/api_start2"
     },
@@ -12886,6 +13771,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Supply Ship Irako",
         "orig": "給糧艦「伊良湖」",
         "src": "/kcsapi/api_start2"
     },
@@ -12896,6 +13782,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Gift box",
         "orig": "プレゼント箱",
         "src": "/kcsapi/api_start2"
     },
@@ -12906,6 +13793,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Class A Medal",
         "orig": "甲種勲章",
         "src": "/kcsapi/api_start2"
     },
@@ -12926,6 +13814,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "Headquarters Personnel",
         "orig": "司令部要員",
         "src": "/kcsapi/api_start2"
     },
@@ -12955,16 +13844,6 @@
         "src": "/kcsapi/api_start2"
     },
     {
-        "ctx": "api_result_msg",
-        "orig": "成功",
-        "src": "/kcsapi/api_start2"
-    },
-    {
-        "ctx": "api_nickname",
-        "orig": "uppfinnarn",
-        "src": "/kcsapi/api_get_member/basic"
-    },
-    {
         "ctx": "api_name",
         "orig": "第1艦隊",
         "src": "/kcsapi/api_port/port"
@@ -12977,31 +13856,6 @@
     {
         "ctx": "api_name",
         "orig": "第3艦隊",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_message",
-        "orig": "「コウト」さんとの演習で勝利しました。",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_message",
-        "orig": "「燐」さんとの演習で敗北しました。",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_message",
-        "orig": "「イフリナ」さんとの演習で勝利しました。",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_message",
-        "orig": "「蒼」さんとの演習で敗北しました。",
-        "src": "/kcsapi/api_port/port"
-    },
-    {
-        "ctx": "api_message",
-        "orig": "「leo」さんとの演習で勝利しました。",
         "src": "/kcsapi/api_port/port"
     }
 ]
