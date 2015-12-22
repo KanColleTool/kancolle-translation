@@ -1,86 +1,103 @@
 [
     {
         "ctx": "api_name",
+        "en": "Bokou",
         "orig": "母港",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Aki no Chinjufu",
         "orig": "秋の鎮守府",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Musashi no Kitou",
         "orig": "武蔵の帰投",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fuyu no Kantai",
         "orig": "冬の抜錨",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Geishun no Chinjufu",
         "orig": "迎春の鎮守府",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Dai Go Sentai no Shutsugeki",
         "orig": "第五戦隊の出撃",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Setsubun no Chinjufu",
         "orig": "節分の鎮守府",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kanmusume no Okashidzukuri",
         "orig": "艦娘のお菓子作り",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Momo no Sekku to Kanmusume",
         "orig": "桃の節句と艦娘",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Dai Sanjuu Kuchiku-tai, Batsubyou Junbi!",
         "orig": "第三十駆逐隊、抜錨準備！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Amaoto no Chinjufu",
         "orig": "雨音の鎮守府",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Ame to Sake to Kanmusume",
         "orig": "雨とお酒と艦娘",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hamabe no Kanmusume",
         "orig": "浜辺の艦娘",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kaga Misakiaratame (Bokou ver)",
         "orig": "加賀岬改(母港ver)",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chinjufu no Akimatsuri",
         "orig": "鎮守府の秋祭り",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shuugetsu no Sora",
         "orig": "秋月の空",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akashi no Koushou",
         "orig": "明石の工廠",
         "src": "/kcsapi/api_start2"
     },
@@ -92,51 +109,61 @@
     },
     {
         "ctx": "api_name",
+        "en": "Sakuteki-ki, Hakkan Hajime!",
         "orig": "索敵機、発艦始め！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Rengou Kantai no Shutsugeki",
         "orig": "連合艦隊の出撃",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Fuyu no Kantai",
         "orig": "冬の艦隊",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Shikon no Mamori",
         "orig": "士魂の護り",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Tokugatakuchikukan",
         "orig": "特型駆逐艦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Akatsuki no Suihei-sen Ni",
         "orig": "暁の水平線に",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Chinjufu no Asa",
         "orig": "鎮守府の朝",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Hana no Nisuisen",
         "orig": "華の二水戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Teitoku to no Kizuna",
         "orig": "提督との絆",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Kaga Misaki",
         "orig": "加賀岬",
         "src": "/kcsapi/api_start2"
     },
@@ -147,6 +174,7 @@
     },
     {
         "ctx": "api_title",
+        "en": "Guardian Office Floor",
         "orig": "鎮守府の床",
         "src": "/kcsapi/api_start2"
     },
@@ -157,6 +185,7 @@
     },
     {
         "ctx": "api_title",
+        "en": "Natural floor",
         "orig": "ナチュラルな床",
         "src": "/kcsapi/api_start2"
     },
@@ -187,6 +216,7 @@
     },
     {
         "ctx": "api_title",
+        "en": "Luxury flooring",
         "orig": "高級フローリング",
         "src": "/kcsapi/api_start2"
     },
@@ -197,6 +227,7 @@
     },
     {
         "ctx": "api_title",
+        "en": "Sandy floor",
         "orig": "砂浜の床",
         "src": "/kcsapi/api_start2"
     },
@@ -207,26 +238,31 @@
     },
     {
         "ctx": "api_title",
+        "en": "Blue carpet",
         "orig": "ブルーカーペット",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "A luxurious tiled floor made of high-quality materials",
         "orig": "高級素材を惜しげもなく使用した贅沢なタイルの床。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_title",
+        "en": "Bright wood tiled floor",
         "orig": "明るいウッドタイルの床",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_description",
+        "en": "White tiles that give energy to the feet. The sleek design fits well with a modern interior!",
         "orig": "足元から明るい気分になれる白いタイル。洗練されたデザインは、モダンなインテリアにもよく合います！",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_title",
+        "en": "White slate tiles",
         "orig": "白い石板タイル",
         "src": "/kcsapi/api_start2"
     },
@@ -1543,6 +1579,7 @@
     },
     {
         "ctx": "api_title",
+        "en": "Elegant Board",
         "orig": "エレガントボード",
         "src": "/kcsapi/api_start2"
     },
@@ -3894,6 +3931,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "10x Improvement Materials",
         "orig": "改修資材パック10",
         "src": "/kcsapi/api_start2"
     },
@@ -3905,6 +3943,7 @@
     },
     {
         "ctx": "api_name",
+        "en": "5x Food Supply Ship Irako",
         "orig": "給糧艦「伊良湖」5",
         "src": "/kcsapi/api_start2"
     },
@@ -12946,6 +12985,7 @@
     },
     {
         "ctx": "api_info",
+        "en": "Being hungry is kind of......Let's make sure to fill our stomachs before battle.<br>The flavour of rice balls eaten at sea is something special!<br>(Is consumed on activation)",
         "orig": "腹が減ってはなんとやら……戦闘前にしっかりと腹ごしらえをしておきましょう。<br>海の上で食べる握り飯の味は格別です！<br>（発動すると消滅します）",
         "src": "/kcsapi/api_start2"
     },
@@ -12967,136 +13007,163 @@
     },
     {
         "ctx": "api_info",
+        "en": "The \"Seiran\", a high-performance carrier based dive bomber, developed as a strategic operations seaplane that could be carried by submarines. The \"Nanzan\" is the land based version and an arresting hook was added to this prototype carrier based bomber version. Since it is a test machine, it has an ostentatious paint scheme.",
         "orig": "水上機搭載可能な潜水艦による戦略的な運用を目指して開発された、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。その陸上運用機バージョン「南山」に着艦フックを付与した試作航空母艦運用型(爆装)です。テスト機なので、派手なカラーリングとなっています。",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Prototype Nanzan",
         "orig": "試製南山",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "5in Single Gun Mount",
         "orig": "5inch単装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "5in Twin Gun Mount",
         "orig": "5inch連装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "3in Single Anti-Aircraft Gun Mount",
         "orig": "3inch単装高角砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "5in Single Anti-Aircraft Gun Mount",
         "orig": "5inch単装高射砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "8in Triple Gun Mount",
         "orig": "8inch三連装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "6in Twin Rapid Fire Gun Mount",
         "orig": "6inch連装速射砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "14in Twin Gun Mount",
         "orig": "14inch連装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "16in Twin Gun Mount",
         "orig": "16inch連装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "16in Triple Gun Mount",
         "orig": "16inch三連装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "6in Single Gun Mount",
         "orig": "6inch単装砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "12.5in Twin Secondary Gun Mount",
         "orig": "12.5inch連装副砲",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "21in Torpedo Early Model",
         "orig": "21inch魚雷前期型",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "21in Torpedo Late Model",
         "orig": "21inch魚雷後期型",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "High-speed Abyssal Torpedo",
         "orig": "高速深海魚雷",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Torpedo Bomber",
         "orig": "深海棲艦攻",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Torpedo Bomber Mark.II",
         "orig": "深海棲艦攻 Mark.II",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Torpedo Bomber Mark.III",
         "orig": "深海棲艦攻 Mark.III",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Fighter",
         "orig": "深海棲艦戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Fighter Mark.II",
         "orig": "深海棲艦戦 Mark.II",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Fighter Mark.III",
         "orig": "深海棲艦戦 Mark.III",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Flying Fish Fighter",
         "orig": "飛び魚艦戦",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Dive Bomber",
         "orig": "深海棲艦爆",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Dive Bomber Mark.II",
         "orig": "深海棲艦爆 Mark.II",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Abyssal Reconnaissance Plane",
         "orig": "深海棲艦偵察機",
         "src": "/kcsapi/api_start2"
     },
     {
         "ctx": "api_name",
+        "en": "Flying Fish Reconnaissance Plane",
         "orig": "飛び魚偵察機",
         "src": "/kcsapi/api_start2"
     },
