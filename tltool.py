@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 from __future__ import print_function
 import os
 import json
@@ -21,7 +21,7 @@ if __name__ == '__main__':
 	json_path = os.path.join(BASE, u'translation.json')
 	with open(json_path, 'rU') as f:
 		data = json.load(f)
-	
+
 	args = parser.parse_args()
 	retval = subcommands[args.cmd].run(data, args)
 	if retval is not None:
