@@ -15,7 +15,7 @@ def run(data, args):
 		if not item['ctx'] in d:
 			d[item['ctx']] = {}
 		d[item['ctx']][item['orig']] = item
-	
+
 	for item in pd:
 		if item[args.lang]:
 			d[item['ctx']][item['orig']][args.lang] = item[args.lang]

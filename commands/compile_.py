@@ -15,5 +15,5 @@ def run(data, args):
 			continue
 		crc = str(crc32(item['orig'].encode('utf-8')) & 0xffffffff)
 		compiled[crc] = item[args.lang]
-	
+
 	dump(compiled, args.patchfile, pretty=False)

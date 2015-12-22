@@ -15,7 +15,7 @@ def run(data, args):
 				bldata[src] = []
 			bldata[src].append(ctx)
 			print(u"Blacklisted: {0} -> {1}".format(src, ctx))
-	
+
 	retval = []
 	for item in data:
 		src = item['src']
@@ -25,5 +25,5 @@ def run(data, args):
 			continue
 		retval.append(item)
 	print(len(retval))
-	
+
 	return retval

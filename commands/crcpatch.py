@@ -17,5 +17,5 @@ def run(data, args):
 			newdata[i][args.lang] = pdata[crc]
 		else:
 			print(u"Unknown: {0}".format(crc))
-	
+
 	return newdata

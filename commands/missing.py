@@ -14,5 +14,5 @@ def run(data, args):
 		if not args.lang in d:
 			d[args.lang] = ""
 			untld.append(d)
-	
+
 	dump(untld, args.outfile)
